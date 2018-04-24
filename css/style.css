@@ -11,6 +11,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #333;
 }
 
 ul {
@@ -24,7 +25,7 @@ ul {
 
 .container {
     max-width: 1170px;
-    padding: 0px 30px;
+    padding: 10px 30px;
 }
 
 ._960px {
@@ -45,6 +46,12 @@ hr.separator-red {
     border: 4px solid #dd453c;
 }
 
+hr.blue {
+    border: 2px solid #294659;
+    max-width: 100px;
+    width: 100%;
+    margin: 25px auto;
+}
 
 .img-responsive {
     width: 100%;
@@ -150,6 +157,11 @@ h2.left-align {
     box-shadow: 1px 1px 20px rgba(0,0,0,.2);
 }
 
+.btn-central {
+    display: block;
+    text-align: center;
+}
+
 
 /* FORMS */
 input, textarea {
@@ -237,9 +249,55 @@ section {
     justify-content: space-between;
 }
 
+.space-around {
+    justify-content: space-around;
+}
+
 .space-evenly {
     justify-content: space-evenly;
 }
+
+.row-4columns, .row-3columns, .row-2columns {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.row-4columns > div {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.row-3columns > div {
+    max-width: 30%;
+    margin-bottom: 0;
+}
+
+.row-2columns > div {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.two-columns > div {
+    max-width: 50%;
+    padding: 25px;
+}
+
+@media screen and (min-width:768px) {
+    .row-4columns, .row-3columns, .row-2columns {
+        flex-direction: row;
+    }
+    .row-4columns > div {
+        max-width: 25%;
+    }
+    .row-2columns > div {
+        max-width: 45%;
+        text-align: left;
+    }        
+}
+
 
 /* NAVBAR - TOP */
 .topbar {
@@ -337,11 +395,14 @@ section {
     width: 100%;
     display: block;
     margin-top: 10px;
-    border-bottom: 1px solid #fff;
     padding-bottom: 10px;
 }
 
-.nav-collapse li:last-child, .nav-collapse li:nth-last-child(2) {
+.nav-collapse ul.navbar > li {
+    border-bottom: 1px solid #fff;
+}
+
+.nav-collapse ul.navbar > li:last-child, .nav-collapse ul.navbar > li:nth-last-child(2) {
     border-bottom: none;
 }
 
@@ -349,6 +410,7 @@ section {
     color: #333;
     font-family: 'Poppins', 'Lato', Arial, Helvetica, sans-serif;
     font-size: 1rem;
+    display: block;
     transition: .2s all;
 }
 
@@ -369,9 +431,89 @@ section {
     margin-left: auto;
 }
 
+
+.nav-servicos {
+    position: relative;
+}
+
+#listaNavServicos {
+    padding-left: 25px;
+    min-width: 280px;
+}
+
+#listaNavServicos li {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+@media screen and (min-width: 1024px) {
+    #listaNavServicos {
+        min-width: 280px;
+        position: absolute;
+        top: 25px;
+        left: 0;
+        opacity: 0;
+        display: none;
+        transition: .2s all ease-in-out;
+    }
+    
+    #listaNavServicos li {
+        display: inline-block;
+        margin-top: 15px;
+    }
+    
+    .navbar li:hover #listaNavServicos {
+        opacity: 1;
+        display: block;
+        transition: .2s all ease-in-out;
+    }
+}
+
+.topbar.scrolled .navbar li ul {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 0 0 5px 5px;
+}
+
+.topbar.white.scrolled .navbar li ul {
+    background-color: #294659;
+}
+
+.nav-servicos a .fa-sort-down {
+    padding-bottom: 5px;
+}
+
 #menu-cta {
     color: #f7f5f7;
     padding: 10px;
+}
+
+#btnTopo, #btnTopo:focus, #btnTopo:active {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    background-color: #333;
+    padding: 15px;
+    border-radius: 10px;
+    opacity: .5;
+    transition: .2s all;
+  }
+  
+#btnTopo.show {
+    display: block;
+}
+
+  #btnTopo:hover {
+    background-color: #555;
+    opacity: 1;
+    transition: .2s all;
+  }
+
+.top-img {
+    width: 20px;
 }
 
 
@@ -772,7 +914,7 @@ section {
 }
 
 
-/* CONTATO */
+/** CONTATO **/
 .contato {
     min-height: 100vh;
 }
@@ -820,12 +962,153 @@ section {
     margin-right: 10px;
 }
 
-hr.blue {
-    border: 2px solid #294659;
-    max-width: 100px;
-    width: 100%;
-    margin: 25px auto;
+/** SERVICO - ESP. **/
+.valor-item h3 {
+    margin-top: 20px;
 }
+
+.valor-item h4 {
+    font-weight: lighter;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.servicos-depoimentos .citacao {
+    border: 1px solid #333;
+    padding: 25px;
+    margin-top: 35px;
+}
+
+.servicos-depoimentos .citacao-fonte {
+    display: flex;
+    text-align: left;
+    align-self: flex-start;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.citacao-fonte img {
+    margin-right: 20px;
+}
+
+.lista-servicos {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.lista-servicos img {
+    margin: 0 auto;
+    display: block;
+}
+
+.lista-servicos > div {
+    max-width: 25%;
+}
+
+.servicos-img-itens {
+    max-width: 400px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.servicos-img-itens > div {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.servicos-img-itens > div p {
+    margin: 0;
+    margin-left: 15px;
+}
+
+.cta-servicos {
+    margin-top: 20px;
+}
+
+/* WEBSITE E SEO */
+.website-layout {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.website-layout > div {
+    padding: 50px 150px;
+    color: #f7f5f7;
+}
+
+.website-layout > div:first-child {
+    background-color: #b73734;
+}
+
+.website-layout > div:last-child {
+    background-color: #dd453c;
+}
+
+.portfolio-cliente span {
+    display: inline-block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.portfolio-cliente a {
+    color: #dd453c;
+}
+
+.portfolio-cliente a:hover {
+    color: #edb400;
+}
+
+.cta-solicitar {
+    text-align: center;
+}
+
+.cta-solicitar h3 {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.cta-blog {
+    margin: 50px 0;
+}
+
+div.label-left {
+    width: 100%;
+    max-width: 30%;
+    background-color: #edb400;
+    border-radius: 0 10px 10px 0;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 50px;
+}
+
+.label-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-blog > div:nth-child(2) {
+    max-width: 65%;
+    padding-right: 100px;
+}
+
+.otimizacao-teste {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    margin-top: 25px;
+}
+
+.otimizacao-teste span {
+    margin-left: 20px;
+}
+
+.otimizacao-teste a {
+    font-weight: bold;
+    color: #b73734;
+}
+
 
 @media screen and (min-width: 768px){
     .bg-rounded-white.contato-form {
@@ -837,6 +1120,24 @@ hr.blue {
     .form-control > div {
         margin-top: 10px;
     }
+
+    .servicos-depoimentos .citacao {
+        padding: 45px;
+    }
+    .servicos-img-itens h4 {
+        margin-bottom: 20px;
+    }
+    .servicos-img-itens > div {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .servicos-img-itens {
+        text-align: left;
+    }    
+    .servicos-img-itens > div p {
+        margin: 0;
+    }    
 }
 
 
@@ -937,7 +1238,7 @@ footer {
 /* MEDIA QUERIES */
 @media screen and (min-width: 768px) {
     .container {
-        padding: 0px 50px;
+        padding: 15px 50px;
     }
 
     h1, h2, h3, h4 {
@@ -1091,7 +1392,7 @@ footer {
         display: flex;
         justify-content: flex-end;
     }
-    .nav-collapse li {
+    .nav-collapse ul.navbar > li {
         display: inline;
         padding-bottom: 0;
         border-bottom: 0;
@@ -1103,6 +1404,12 @@ footer {
     }
     .navbar li {
         margin-right: 30px;
+    }
+    .navbar li > a {
+        display: inline;
+    }
+    .top-img {
+        width: 40px;
     }
 
     .servico-item {
