@@ -154,5 +154,21 @@ if (typeof tns === "function") {
     speed: 1000,
     controlsContainer: '#customize-controls'
   });
+
+  // Slider de Portfolio
+  var slider = tns({
+    container: '.landing-page',
+    items: 1,
+    autoplayTimeout: 2500,
+    autoplay: true,
+    mouseDrag: true,
+    autoplayButtonOutput: false,
+    autoplayHoverPause: true,
+    nav: false,
+    controls: false,
+    lazyload: true,
+    speed: 1000,
+  });
+
 }
 

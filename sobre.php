@@ -23,7 +23,7 @@
                 <h4>Sobre a YouSea</h4>
                 <hr>
                 <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!</p>
+                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!<span class="revisao">Texto a ser criado/modificado</span></p>
             </div>
         </div>
     </header>
@@ -43,7 +43,7 @@
                         <h2 class="subtitle">Nossos Valores</h2>
                         <div>
                             <img src="img/sobre/valor002.png" class="img-responsive" alt="Valor 1">
-                            <h4><strong>Transparência</strong> e Honestidade. Sempre.</h4>
+                            <h4><strong>Transparência</strong> e Honestidade</h4>
                         </div>
                         <div>
                             <img src="img/sobre/valor001.png" class="img-responsive" alt="Valor 2">
@@ -84,7 +84,7 @@
                     <div class="bg-rounded-white">
                         <img src="img/sobre/bru.png" class="img-responsive" alt="Foto de Bruna G, copyrighter">
                         <h3>Bruna Gil, Redatora</h3>
-                        <p>Formada em relações internacionais e estudante de gestão de negócios, é co-fundadora da YouSea e atua como responsável de marketing de conteúdo e soluções para redes sociais. É apaixonada por criação de conteúdo e empreendedorismo, e busca melhorar o mundo através da escrita. </p>
+                        <p>Formada em relações internacionais e estudante de gestão de negócios, é cofundadora da YouSea e atua como responsável de marketing de conteúdo e soluções para redes sociais. É apaixonada por criação de conteúdo e empreendedorismo, e busca melhorar o mundo através da escrita. </p>
                         <div class="sobre-redes-sociais">
                             <a href="https://www.linkedin.com/in/brunaggil/" target="_blank"> <i class="fab fa-linkedin fa-3x"></i> </a>
                             <a href="https://medium.com/@Bruna.Gil" target="_blank"> <i class="fab fa-medium fa-3x"></i> </a>
@@ -95,7 +95,7 @@
                     <div class="bg-rounded-white">
                         <img src="img/sobre/mell.png" class="img-responsive" alt="Foto de Mellina Y, designer">
                         <h3>Mellina Yonashiro, Designer</h3>
-                        <p>Designer com mais de três anos de experiência na área de criação, programação e web design, é co-fundadora da YouSea e idealizadora das soluções de Web Design e SEO. Apaixonada por jogos e tecnologia, é engajada com projetos de empoderamento e presença feminina na tecnologia, atuando como professora do Reprograma. </p>
+                        <p>Designer com mais de três anos de experiência na área de criação, programação e web design, é cofundadora da YouSea e idealizadora das soluções de Web Design e SEO. Apaixonada por jogos e tecnologia, é engajada com projetos de empoderamento e presença feminina na tecnologia, atuando como professora <a href="http://www.reprograma.com.br" target="_blank">Reprograma</a>. </p>
                         <div class="sobre-redes-sociais">
                             <a href="https://github.com/yogmel" target="_blank"> <i class="fab fa-github-square fa-3x"></i> </a>
                             <a href="https://www.behance.net/yogmel" target="_blank"> <i class="fab fa-behance-square fa-3x"></i> </a>
