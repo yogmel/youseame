@@ -23,7 +23,7 @@
                 <h4>Marketing Digital e de Conteúdo</h4>
                 <hr>
                 <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!</p>
+                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital! <span class="revisao">Texto a ser criado/modificado</span></p>
                 
             </div>
         </div>
@@ -36,7 +36,8 @@
                 <img src="../img/servicos/marketing/marketing-sobre.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <h2 class="subtitle left-align">O que é Marketing Digital?</h2>
-                    <p>São ações de comunicação de serviços, produtos ou marcas através das mídias digitais. A internet mudou a forma de interação dos consumidores com o marketing, e por isso as estratégias também mudaram. Com o Marketing Digital, você será capaz de se comunicar com o público de forma direta e personalizada, dando aos seus clientes exatamente o que eles desejam e precisam. </p>
+                    <p>São <strong>ações de comunicação de serviços, produtos ou marcas através das mídias digitais</strong>. A internet mudou a forma de interação dos consumidores com o marketing, e por isso as estratégias também mudaram.</p>
+                    <p>Com o Marketing Digital, você será capaz de se comunicar com o público de forma <strong>direta e personalizada</strong>, dando aos seus clientes exatamente o que eles desejam e precisam. </p>
                 </div>
             </div>
         </section>
@@ -53,8 +54,8 @@
                         </a>
                     </div>
                     <div class="valor-item">
-                        <a href="#servicoEmailMarketing">
-                            <i class="fas fa-envelope fa-3x"></i>
+                        <a href="#servicoSEO">
+                            <i class="fas fa-crosshairs fa-3x"></i>
                             <h3>SEO e AdWords</h3>
                         </a>
                     </div>
@@ -62,7 +63,7 @@
                         <a href="#servicoEstrategiaMarketing">
                             <i class="fas fa-chart-pie fa-3x"></i>
                             <h3>Estratégias de Marketing</h3>
-                            <h4>Copywriting, teste A/B, ranqueamento, etc.</h4>
+                            <h4>Copywriting, Teste A/B, Ranqueamento, etc.</h4>
                         </a>
                     </div>
                 </div>
@@ -79,7 +80,8 @@
 
                     <div class="cd-timeline__content js-cd-content">
                         <h3>Pesquisa e Estudo</h3>
-                        <p>Primeiro, entendemos o seu negócio, com quem ele conversa, quais são os seus valores como empreendedor e seus principais concorrentes no segmento de atuação. Essa etapa de estudo é primordial para que nosso serviço seja personalizado e alinhado aos seus objetivos. </p>
+                        <p>Primeiro, entendemos o seu negócio, com quem ele conversa, quais são os seus valores como empreendedor e seus principais concorrentes no segmento de atuação.</p>
+                        <p>Essa etapa de estudo é primordial para que nosso serviço seja <strong>personalizado e alinhado aos seus objetivos</strong>. </p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -89,7 +91,8 @@
 
                     <div class="cd-timeline__content js-cd-content">
                         <h3>Projeto e Execução</h3>
-                        <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. Medimos os resultados, traçamos metas e antecipamos as demais demandas. A transparência do processo e o acompanhamento diário com os feedbacks do cliente é uma etapa essencial para o sucesso do projeto.</p>
+                        <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
+                        <p>A transparência do processo e o acompanhamento diário com os feedbacks do cliente é uma etapa essencial para o sucesso do projeto.</p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -99,7 +102,8 @@
 
                     <div class="cd-timeline__content js-cd-content">
                         <h3>Análise e Aprimoramento</h3>
-                        <p>Nossos melhores projetos são construídos com base em um crescimento consistente e duradouro. Utilizamos todos os dados obtidos para desenvolver novas estratégias e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para que os clientes possam lançar novos produtos e serviços de forma mais efetiva.</p>
+                        <p>Nossos melhores projetos são construídos com base em um crescimento consistente e duradouro.</p>
+                        <p><strong>Utilizamos todos os dados obtidos para desenvolver novas estratégias</strong> e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para que os clientes possam lançar novos produtos e serviços de forma mais efetiva.</p>
                     </div>
                 </div>
             </div>
@@ -109,7 +113,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nossa solução funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="contato.php" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>   
+                <a href="../contato.php" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>   
             </div>
         </section>
 
@@ -119,8 +123,8 @@
             <div class="container sobre flex flex-align-center space-evenly">
                 <img src="../img/servicos/marketing/criacao-conteudo.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
-                    <p>Seus clientes já estão online e diariamente procurando soluções e produtos nos motores de busca e redes sociais. Sabe aquela história que as pessoas devem estar no lugar certo na hora certa? Isso é exatamente o objetivo do marketing de Conteúdo.</p>
-                    <p>Assim, a produção de conteúdo visa publicar informações relevantes e importantes para os seus potenciais clientes, a fim de atrair, converter e cativar o seu público, fazendo com que sua marca ganhe reconhecimento e reputação online. Essa também é uma das ferramentas da estratégia de atração, conhecida como Inbound Marketing.</p>
+                    <p><em> Seus clientes já estão online e diariamente procurando soluções e produtos nos sites de busca e redes sociais.</em> Sabe aquela história que as pessoas devem estar no lugar certo na hora certa? Isso é exatamente o objetivo do Marketing de Conteúdo.</p>
+                    <p>Assim, a produção de conteúdo visa publicar <strong>informações relevantes e importantes para os seus potenciais clientes</strong>, a fim de atrair, converter e cativar o seu público, fazendo com que sua marca ganhe <em>reconhecimento e reputação online</em>. Essa também é uma das ferramentas da estratégia de atração, conhecida como <em>Inbound Marketing</em>.</p>
                 </div>
             </div>
 
@@ -128,7 +132,7 @@
                 <div class="citacao _960px">
                     <blockquote>
                     <h3>Você sabia que...</h3>
-                        58% das empresas estão usando algum elemento de Inbound Marketing (Produção de Conteúdo), porém, muitas vezes, não da maneira mais completa? Será que você não faz parte dessa estatística? 
+                        <strong>58% das empresas</strong> estão usando algum elemento de Inbound Marketing (Produção de Conteúdo), porém, muitas vezes, não da maneira mais completa? Será que você não faz parte dessa estatística? 
                     </blockquote>
                 </div>
             </div>
@@ -138,33 +142,35 @@
                 <div class="row-4columns">
                     <div>
                         <i class="fas fa-rss-square fa-2x"></i>
-                        <p>Artigos de blogs e campanhas em redes sociais </p>
+                        <p>Artigos de Blogs e <a href="redes-sociais.php#servicoCampanhas" target="_blank">Campanhas em Redes Sociais</a></p>
                     </div>
                     <div>
                         <i class="fas fa-book fa-2x"></i>
-                        <p>eBooks e infográficos</p>
+                        <p>Ebooks e infográficos</p>
                     </div>
                     <div>
                         <i class="fas fa-envelope fa-2x"></i>
-                        <p>E-mail marketing e notícias</p>
+                        <p>Email Marketing e Newsletters</p>
                     </div>
                     <div>
                         <i class="fas fa-comments fa-2x"></i>
-                        <p>Criação e redação alinhadas a sua estratégia </p>
+                        <p>Criação e Redação alinhadas a sua estratégia <span class="revisao">talvez revisar esse texto</span> </p>
                     </div>
                 </div>
-                <a href="contato.php" class="btn btn-red btn-central">Solicite um orçamento sem compromisso</a>
+                <div class="container _600px">
+                    <a href="../contato.php" class="btn btn-red btn-central">Solicite um orçamento sem compromisso</a>
+                </div>
             </div>
         </section>
 
         <hr class="separator-red">
 
         <!-- Serviço - SEO e Adwords -->
-        <section class="servicos-descricao" id="servicoEmailMarketing">
+        <section class="servicos-descricao" id="servicoSEO">
             <h2 class="subtitle text-center">SEO e AdWords</h2>
             <div class="container _960px text-center">
                 <div>
-                    <p>Essas duas siglas nada mais são do que ações de marketing digital que visam promover seus produtos e serviços nas páginas de resultados na web como Google, Bing, Yahoo, etc. Fazer um trabalho de otimização (SEO) com base no conteúdo do seu site e blog e focar em patrocinar links (AdWords) são ferramentas valiosas para qualquer campanha.</p>
+                    <p>Essas duas siglas nada mais são do que ações de marketing digital que visam promover seus produtos e serviços nas páginas de resultados na web como <strong>Google, Bing, Yahoo, etc</strong>. Fazer um trabalho de <strong>otimização (SEO)</strong> com base no conteúdo do seu site e blog e focar em <strong>patrocinar links (AdWords)</strong> são ferramentas valiosas para qualquer campanha.</p>
                     <p>Mas, afinal, qual ferramenta você precisa adotar? Nós estudaremos o seu negócio e traçaremos a melhor estratégia para a sua marca ser vista por quem importa!</p>
                 </div>
             </div>
@@ -174,13 +180,13 @@
                 <div class="servicos-img-itens">
                     <div>
                         <i class="fas fa-chevron-circle-right fa-2x"></i>
-                        <p>Você sabia que mais de 67% dos cliques vão apenas e somente para os 5 primeiros sites que aparecem na página de pesquisa do Google? (<em>Advanced Web Rankings, 2014</em>).</p>
+                        <p>Você sabia que mais de 67% dos cliques vão apenas e somente para os <strong>5 primeiros sites</strong> que aparecem na página de pesquisa do Google? (<em>Advanced Web Rankings, 2014</em>).</p>
                     </div>
                 </div>
             </div>
     
             <div class="container _600px text-center">
-                <a href="#" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
+                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
             </div>
         </section>
 
@@ -189,29 +195,29 @@
         <!-- Serviço - Estratégia de Marketing -->
         <section class="servicos-descricao" id="servicoEstrategiaMarketing">
             <h2 class="subtitle text-center">Estratégias de Marketing Digital</h2>
-            <h3 class="text-center _600px">Para quem já está navegando no mundo do marketing digital, mas está a deriva e precisa de novas estratégias e rumos</h3>
+            <h3 class="text-center _600px">Para quem já está navegando no mundo do marketing digital, mas está a deriva e precisa de novas estratégias e rumos <span class="revisao">tirar uma palavrinha só</span> </h3>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
                 <img src="../img/servicos/marketing/estrategia-marketing.png" class="img-responsive" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <h3>Análise e Estudo de Métricas </h3>
-                    <p>Trabalhamos com diversos tipos de métricas que garantem o sucesso de nosso planejamento e execução como CTR (Taxa de Cliques), CPC (Custo por Clique), CPA (Custo de Aquisição), ROI (Retorno sobre o Investimento). Você cuida do seu negócio e deixa essa sopa de letrinhas por nossa conta!</p>
+                    <p>Trabalhamos com diversos tipos de <strong>métricas que garantem o sucesso</strong> de nosso planejamento e execução como CTR (Taxa de Cliques), CPC (Custo por Clique), CPA (Custo de Aquisição), ROI (Retorno sobre o Investimento). Você cuida do seu negócio e deixa essa sopa de letrinhas por nossa conta!</p>
                 </div>
             </div>
     
             <div class="container _960px row-2columns">
                 <div>
                     <h3>Copywriting</h3>
-                    <p>São todas as técnicas de escrita que tem um grande propósito: convencer seus clientes a fecharem negócio com você. Essas técnicas dizem respeito à títulos, anúncios, slogans, vocabulário, linguajar e estilo narrativo, sendo ferramenta essencial na criação de conteúdos para seus produtos e serviços. </p>
+                    <p>São todas as técnicas de escrita que tem um grande propósito: <strong>convencer seus clientes a fecharem negócio com você</strong>. Essas técnicas dizem respeito à títulos, anúncios, slogans, vocabulário, linguajar e estilo narrativo, sendo ferramenta essencial na criação de conteúdos para seus produtos e serviços. </p>
                 </div>
                 <div>
                     <h3>Teste A/B</h3>
-                    <p>Testar e otimizar é primordial para saber se seu conteúdo está agradando o seu público alvo. O teste A/B, assim como outras ferramentas que seu site pode ter, é utilizado para saber quais os conteúdos mais lidos do seu blog, os botões mais clicados e qual versão do seu site tem um número maior de acessos ou interações do público. </p>
+                    <p>Testar e otimizar é primordial para <strong>saber se seu conteúdo está agradando o seu público alvo</strong>. O teste A/B, assim como outras ferramentas que seu site pode ter, é utilizado para saber quais os conteúdos mais lidos do seu blog, os botões mais clicados e qual versão do seu site tem um número maior de acessos ou interações do público. </p>
                 </div>
             </div>
 
             <div class="_600px container">
-                <a href="#" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
+                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
             </div>
         </section>
 
@@ -228,7 +234,7 @@
                     <h3>Procurando por atividades de suporte a sua estratégia pronta de Marketing Digital? </h3>
                     <p>A YouSea também oferece o serviço de criação das seguintes peças:</p>
                     <ul>
-                        <li><strong>Branding</strong>: logotipo, catálogo, portfólio, media kit, e identidade visual como um todo</li>
+                        <li><strong>Branding</strong>: logotipo, catálogo, portfólio, media kit, e identidade visual como um todo.</li>
                         <li><strong>Institucional</strong>: Cartões de visita, banners, folders, apresentações institucionais, peças publicitárias, etc.</li>
                     </ul>
                 </div>
@@ -267,7 +273,7 @@
             </div>
 
             <div class="_600px container">
-                <a href="#" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
+                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
             </div>
         </section>
 

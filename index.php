@@ -25,7 +25,7 @@
         <div class="container">
         <div class="bg-rounded-white">
             <h1>Você está navegando sem rumo?</h1>
-            <p><strong>Chegou a hora de você ser visto.</strong> Nós temos as ferramentas e estratégias ideais para sua empresa chegar mais longe na era digital!</p>
+            <p><strong>Chegou a hora de você ser visto.</strong> Nós temos as ferramentas e estratégias ideais para sua empresa chegar mais longe na era digital! <span class="revisao">acho que seria legal ter o uso da palavra marketing nessa frase ou no titulo</span> </p>
         </div>
         </div>
     </header>
@@ -35,7 +35,10 @@
         <section class="sobre bg-red" id="homeSobre">
             <div class="container flex flex-align-center space-around">
                 <img src="img/home-sobre.png" class="img-responsive" alt="Imagem sobre YS">
-                <p>A YouSea é uma empresa que entende suas necessidades e quer navegar junto com você nos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>pequenas e médias empresas</em>, considerando que nenhum sonho é grande demais para os primeiros passos. Nosso objetivo é entender o seu negócio e seus objetivos, construindo <strong>serviços eficientes que gerem grandes resultados</strong>!</p>
+                <div>
+                    <p>A YouSea é uma empresa que entende suas necessidades e quer navegar junto com você nos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>pequenas e médias empresas</em>, considerando que nenhum sonho é grande demais para os primeiros passos.</p>
+                    <p> Nosso objetivo é entender o seu negócio e seus objetivos, construindo <strong>serviços eficientes que gerem grandes resultados</strong>!</p>
+                </div>
             </div>
         </section>
 
@@ -43,7 +46,7 @@
             <div class="container">
                 <h2 class="subtitle">Por que escolher a YouSea?</h2>
                 <h3 class="text-center _600px">Lucro e relevância digital são desdobramentos de uma boa estratégia de marketing com resultados consistentes.</h3>
-                <p class="text-center _600px"><strong>O nosso trabalho é o mapa do tesouro para se chegar lá:</strong></p>
+                <h3 class="text-center _600px"><strong>O nosso trabalho é o mapa do tesouro para se chegar lá:</strong></h3>
                 <div class="flex space-between">
                     <div class="valor-item">
                         <img src="img/valor01.png" class="img-responsive" alt="Valor 1">
@@ -55,7 +58,7 @@
                     </div>
                     <div class="valor-item">
                         <img src="img/valor03.png" class="img-responsive" alt="Valor 3">
-                        <p>Otimizar, testar e inovar é a nossa forma de estar constantemente aprendendo. Trazemos e personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>.</p>
+                        <p>Otimizar, testar e inovar é a nossa forma de estar constantemente aprendendo. Trazemos e personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>. <span class="revisao">Diminuir os textos pra ficar com o mesmo numero de linhas/palavras</span> </p>
                     </div>
                 </div>
             </div>
@@ -75,7 +78,7 @@
                     </div>
                     <div>
                         <i class="fas fa-bullhorn fa-3x curiosidades-img"></i>
-                        <p><strong>94,4% das empresas</strong> brasileiras estão nas redes sociais. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">Social Media Trends, 2018</a>)</p>
+                        <p><strong>94,4% das empresas</strong> brasileiras estão nas redes sociais. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">Social Media Trends, 2018</a>) <span class="revisao">podemos achar um dado pra marketing de conteudo e outro pra website</span> </p>
                     </div>
                 </div>
                 <p class="text-center"><em><strong>E você?</strong></em> <br> Seu negócio está sendo descoberto por quem importa?</p>
@@ -104,7 +107,7 @@
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-chart-pie fa-2x"></i>
-                                <p>Estratégias de Copywriting, teste A/B e ranqueamento</p>
+                                <p>Estratégias de Copywriting, Teste A/B e Ranqueamento</p>
                             </div>
                         </div>
                         <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
@@ -120,11 +123,11 @@
                         <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-desktop fa-2x"></i>
-                                <p>Website</p>
+                                <p>Website e Blog</p>
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-newspaper fa-2x"></i>
-                                <p>Landing Pages Blog</p>
+                                <p>Landing Pages</p>
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-chart-line fa-2x"></i>
@@ -140,7 +143,7 @@
                     <div class="img-servicos" style="background-image: url(img/servicos/social-media.png);"></div>
                     <div>
                         <h3>Redes Sociais (Marketing e Gerenciamento)</h3>
-                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no seu sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa ao criar postagens, engajar reações e obter resultados únicos para o seu negócio.</p>
+                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no que sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa ao criar postagens, engajar reações e obter resultados únicos para o seu negócio.</p>
                         <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-thumbs-up fa-2x"></i>
@@ -166,27 +169,27 @@
                 <div class="solucoes-itens container flex space-between">
                     <div>
                         <img src="img/solucoes/01.png" alt="Solução 1">
-                        <p>Aumente a visibilidade da sua marca. Seja visto por quem importa!</p>
+                        <p>Aumente a <strong>visibilidade</strong> da sua marca. Seja visto por quem importa!</p>
                     </div>
                     <div>
                         <img src="img/solucoes/02.png" alt="Solução 2">
-                        <p>Consiga mais clientes e amplie suas vendas e resultados</p>
+                        <p>Consiga mais clientes e amplie suas vendas e <strong>resultados</strong></p>
                     </div>
                     <div>
                         <img src="img/solucoes/03.png" alt="Solução 3">
-                        <p>Aumente o engajamento e deixe que seu público trabalhe com a sua marca</p>
+                        <p>Aumente o <strong>engajamento</strong> e deixe que seu público trabalhe com a sua marca<span class="revisao"> se possivel, diminuir um pouco esse texto</span></p> 
                     </div>
                     <div>
                         <img src="img/solucoes/04.png" alt="Solução 4">
-                        <p>Entenda o perfil dos seus clientes e atenda suas necessidades</p>
+                        <p>Entenda o <strong>perfil</strong> dos seus clientes e atenda suas necessidades</p>
                     </div>
                     <div>
                         <img src="img/solucoes/05.png" alt="Solução 5">
-                        <p>Tenha mais autoridade no seu segmento e seja uma referência</p>
+                        <p>Tenha mais <strong>autoridade</strong> no seu segmento e seja uma referência</p>
                     </div>
                     <div>
                         <img src="img/solucoes/06.png" alt="Solução 6">
-                        <p>O céu é o limite e nós vamos mais longe com você!</p>
+                        <p><strong>O céu é o limite</strong> e nós vamos mais longe com você!</p>
                     </div>   
                 </div>
                 <div class="solucoes-chamada container">

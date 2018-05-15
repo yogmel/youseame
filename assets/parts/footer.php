@@ -28,19 +28,19 @@
                             </a>
                         </div>
                         <div class="flex flex-align-center">
-                            <a href="mailto:contato@yousea.me" target="_blank">
+                            <a href="https://www.facebook.com/yousea.marketing/" target="_blank">
                                 <i class="fab fa-facebook-square fa-lg"></i>
-                                <span>/yousea</span>
+                                <span>/yousea.marketing</span>
                             </a>
                         </div>
                         <div class="flex flex-align-center">
-                            <a href="mailto:contato@yousea.me" target="_blank">
+                            <a href="https://www.linkedin.com/company/yousea/" target="_blank">
                                 <i class="fab fa-linkedin fa-lg"></i>
                                 <span>/yousea</span>
                             </a>
                         </div>
                         <div class="flex flex-align-center">
-                            <a href="mailto:contato@yousea.me" target="_blank">
+                            <a href="https://www.instagram.com/yousea.me/" target="_blank">
                                 <i class="fab fa-instagram fa-lg"></i>
                                 <span>/yousea.me</span>
                             </a>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="footer-about">
                     <img src="img/logo-white.png" class="img-responsive" alt="YouSea Logo">
-                    <p>A YouSea é uma empresa que entende suas necessidades e quer navegar junto com você nos mares do Marketing Digital. Oferecemos soluções customizadas para pequenas e médias empresas, considerando que nenhum sonho é grande demais para os primeiros passos.</p>
+                    <p>A YouSea é uma empresa que entende suas necessidades e quer navegar junto com você nos mares do Marketing Digital. Oferecemos soluções customizadas para pequenas e médias empresas, considerando que nenhum sonho é grande demais para os primeiros passos. <span class="revisao">Revisar e diminuir o tamanho do texto</span> </p>
                 </div>
             </div>
         </div>

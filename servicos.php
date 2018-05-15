@@ -23,7 +23,7 @@
                 <h4>Nossos Serviços</h4>
                 <hr>
                 <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!</p>
+                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital! <span class="revisao">Texto a ser criado/modificado</span> </p>
             </div>
         </div>
     </header>
@@ -51,7 +51,7 @@
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-chart-pie fa-2x"></i>
-                                <p>Estratégias de Copywriting, teste A/B e ranqueamento</p>
+                                <p>Estratégias de Copywriting, Teste A/B e Ranqueamento</p>
                             </div>
                         </div>
                         <div class="flex servicos-acessar">
@@ -70,11 +70,11 @@
                         <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-desktop fa-2x"></i>
-                                <p>Website</p>
+                                <p>Website e Blog</p>
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-newspaper fa-2x"></i>
-                                <p>Landing Pages Blog</p>
+                                <p>Landing Pages</p>
                             </div>
                             <div class="flex flex-align-center">
                                 <i class="fas fa-chart-line fa-2x"></i>
@@ -93,7 +93,7 @@
                     <div class="img-servicos" style="background-image: url(img/servicos/social-media.png);"></div>
                     <div class="servicos-categoria">
                         <h3>Redes Sociais (Marketing e Gerenciamento)</h3>
-                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no seu sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa ao criar postagens, engajar reações e obter resultados únicos para o seu negócio.</p>
+                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no que sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa ao criar postagens, engajar reações e obter resultados únicos para o seu negócio.</p>
                         <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-thumbs-up fa-2x"></i>

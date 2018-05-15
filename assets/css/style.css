@@ -60,7 +60,11 @@ hr.blue {
 }
 
 /* TEXTS */
-h1, h2, h3, h4, h2 strong, h4 strong, h4 em {
+strong, em {
+    font-family: inherit;
+}
+
+h1, h2, h3, h4 {
     font-family: 'Poppins', 'Roboto Slab', Arial, Helvetica, sans-serif;
     margin: 0;
     line-height: 1.5;
@@ -80,6 +84,10 @@ p {
     line-height: 1.5;
     margin: 0;
     margin-top: 10px;
+}
+
+span.light {
+    font-weight: lighter;
 }
 
 section h2 {
@@ -388,9 +396,8 @@ section {
 /* NAVBAR - TOP */
 .topbar {
     width: 100%;
-    padding: 20px;
+    padding: 20px;  
     position: fixed;
-    padding: 20px 0 0 0;
     z-index: 10;
     background-color: transparent;
     -webkit-box-shadow: 0;
@@ -818,7 +825,7 @@ div.img-servicos {
 }
 
 .solucoes-itens > div > p {
-    max-width: 200px;
+    max-width: 300px;
     margin: 0 auto;
     margin-bottom: 40px;
     margin-top: 15px;
@@ -1048,7 +1055,7 @@ iframe.depoimento {
         height: 60vh;
     }
     .sobre-historia-valores {
-        max-width: 25%;
+        max-width: 100%;
     }
 }
 
@@ -1226,6 +1233,10 @@ iframe.depoimento {
     font-size: 1.2rem;
 }
 
+.contato-redes-sociais span {
+    margin-left: 10px;
+}
+
 /** SERVICO - ESP. **/
 .valor-item h3 {
     margin-top: 20px;
@@ -1234,7 +1245,6 @@ iframe.depoimento {
 .valor-item h4 {
     font-weight: lighter;
     font-style: italic;
-    margin-top: 5px;
 }
 
 .servicos-descricao > div {
@@ -1268,6 +1278,7 @@ iframe.depoimento {
 
 .citacao-fonte img {
     margin-right: 20px;
+    max-width: 80px;
 }
 
 .lista-servicos {
@@ -1332,6 +1343,10 @@ iframe.depoimento {
 .servicos-icones svg {
     margin-bottom: 10px;
     color: #6aaecd;
+}
+
+.portfolio-cliente .tns-outer {
+    margin-bottom: 20px;
 }
 
 .controls {
@@ -1404,7 +1419,7 @@ iframe.depoimento {
 div.label-center {
     text-align: center;
     margin: 25px 0;
-    background-color: #edb400;
+    background-color: #ffc800;
     padding: 20px;
     border-radius: 10px;
 }
@@ -1448,6 +1463,10 @@ div.label-left {
             align-items: center;
     text-align: left;
     margin-top: 25px;
+}
+
+.otimizacao-teste img {
+    max-height: 60px;
 }
 
 .otimizacao-teste span {
@@ -1505,6 +1524,13 @@ div.label-left {
             -ms-flex-direction: row;
                 flex-direction: row;
     }
+    .portfolio-cliente .tns-outer {
+        max-width: 45%;
+    }
+    
+    .portfolio-cliente .tns-outer + div {
+        margin-left: 20px;
+    }   
     
 }
 
@@ -1562,7 +1588,7 @@ footer {
     transition: .2s all;
 }
 
-.footer-mapa li > a:hover, .footer-redes-sociais a:hover {
+.footer-mapa li > a:hover, .footer-redes-sociais a:hover, .contato-redes-sociais a:hover {
     color: #dd453c;
     -webkit-transition: .2s all;
     transition: .2s all;
@@ -1666,7 +1692,7 @@ footer {
     }
     
     .sobre img {
-        max-width: 450px;
+        max-width: 400px;
         margin-right: 30px;
     }
     .sobre p {
@@ -1827,4 +1853,12 @@ footer {
         text-align: left;
     }
 
+}
+
+
+/* TEMPORARIO */
+.revisao {
+    font-style: italic;
+    color: red;
+    font-size: 1rem;
 }

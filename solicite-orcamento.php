@@ -22,8 +22,8 @@
             <div class="container flex">
                 <div class="contato-form bg-rounded-white">
                     <div id="contact_title">
-                        <h2 class="subtitle">Tem alguma dúvida?</h2>
-                        <h3>Entre em contato com a gente!</h3>
+                        <h2 class="subtitle">Pronto para orçar com a gente?</h2>
+                        <h3>Nos envie seus dados que entraremos em contato o mais breve possível!</h3>
                     </div>
 
                     <div style="display:none;" id="thankyou_message">
@@ -59,8 +59,8 @@
                             <div>
                                 <label for="solicitacao">Solicitação *</label>
                                 <select name="solicitacao" required>
-                                    <option value="" disabled="disabled" selected>Selecione um tipo</option>
-                                    <option value="orcamento">Orçamento</option>
+                                    <option value="" disabled="disabled">Selecione um tipo</option>
+                                    <option value="orcamento" selected>Orçamento</option>
                                     <option value="duvida">Dúvida</option>
                                     <option value="bug">Reportar Bug</option>
                                     <option value="comentario">Comentário</option>
@@ -97,7 +97,7 @@
 
                     <hr class="blue">
 
-                   <div class="contato-redes-sociais">
+                    <div class="contato-redes-sociais">
                         <div class="flex">
                             <a href="mailto:contato@yousea.me" target="_blank">
                                 <i class="fas fa-envelope fa-lg"></i>
