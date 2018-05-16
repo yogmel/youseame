@@ -30,19 +30,19 @@
                         <div class="flex flex-align-center">
                             <a href="https://www.facebook.com/yousea.marketing/" target="_blank">
                                 <i class="fab fa-facebook-square fa-lg"></i>
-                                <span>/yousea.marketing</span>
+                                <span>yousea.marketing</span>
                             </a>
                         </div>
                         <div class="flex flex-align-center">
                             <a href="https://www.linkedin.com/company/yousea/" target="_blank">
                                 <i class="fab fa-linkedin fa-lg"></i>
-                                <span>/yousea</span>
+                                <span>yousea</span>
                             </a>
                         </div>
                         <div class="flex flex-align-center">
                             <a href="https://www.instagram.com/yousea.me/" target="_blank">
                                 <i class="fab fa-instagram fa-lg"></i>
-                                <span>/yousea.me</span>
+                                <span>yousea.me</span>
                             </a>
                         </div>
                     </div>

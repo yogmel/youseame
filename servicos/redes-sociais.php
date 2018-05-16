@@ -223,53 +223,71 @@
 
         <!-- Serviço - Contato -->
         <section class="contato">
-                <div class="container flex">
-                    <div class="contato-form _600px">
+            <div class="container flex">
+                <div class="contato-form _600px">
+                    <div id="contact_title">
                         <h2 class="subtitle">Tem alguma dúvida?</h2>
                         <h3>Entre em contato com a gente!</h3>
-    
+                    </div>
+
+                    <div style="display:none;" id="thankyou_message">
+                        <h2 class="subtitle">Obrigada!</h2>
+                        <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
+                        <p>Você quer enviar outra mensagem? <button onclick="reloadMessage();">Clique aqui</button>. </p>
+                    </div>
+                    
+                    <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
                         <div class="form-control form-inline-two">
                             <div>
                                 <label for="nome">Nome *</label>
-                                <input type="text" placeholder="Seu Nome" required>
+                                <input type="text" placeholder="Seu Nome" name="nome" required>
                             </div>
                             <div>
-                                <label for="nome">Email *</label>
-                                <input type="text" placeholder="Seu Email" required>
+                                <label for="email">Email *</label>
+                                <input type="email" placeholder="Seu Email" name="email" required>
                             </div>
                         </div>
-    
+
                         <div class="form-control form-inline-two">
                             <div>
-                                <label for="nome">Empresa *</label>
-                                <input type="text" placeholder="Seu Empresa" required>
+                                <label for="empresa">Empresa *</label>
+                                <input type="text" placeholder="Seu Empresa" name="empresa" required>
                             </div>
                             <div>
-                                <label for="nome">Cargo *</label>
-                                <input type="text" placeholder="Seu Cargo" required>
+                                <label for="cargo">Cargo *</label>
+                                <input type="text" placeholder="Seu Cargo" name="cargo" required>
                             </div>
                         </div>
-    
+
                         <div class="form-control">
                             <div>
-                                <label for="nome">Solicitação *</label>
-                                <input type="text" placeholder="Seu Solicitação" required>
+                                <label for="solicitacao">Solicitação *</label>
+                                <select name="solicitacao" required>
+                                    <option value="" disabled="disabled" selected>Selecione um tipo</option>
+                                    <option value="Orçamento">Orçamento</option>
+                                    <option value="Dúvida">Dúvida</option>
+                                    <option value="Reportar Bug">Reportar Bug</option>
+                                    <option value="Comentário">Comentário</option>
+                                    <option value="Outro">Outro</option>
+                                </select>
                             </div>
                         </div>
-    
+
                         <div class="form-control">
                             <div>
-                                <label for="nome">Sua Mensagem *</label>
-                                <textarea type="text" placeholder="Seu Empresa" rows="5" required></textarea>
+                                <label for="nome">Sua Mensagem</label>
+                                <textarea type="text" placeholder="Seu Empresa" name="mensagem" rows="5"></textarea>
                             </div>
+                            <input type="text" name="origem" value="Redes Sociais" style="display:none;" >
                         </div>
-    
+
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
-    
-                    </div>
+                    </form>
 
                 </div>
-            </section>
+
+            </div>
+        </section>
 
 
     </main>
@@ -278,6 +296,7 @@
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
+    <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
 
 </body>
 </html>

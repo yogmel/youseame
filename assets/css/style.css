@@ -152,6 +152,7 @@ h2.subtitle + h3 {
     font-family: 'Poppins', 'Lato', Arial, Helvetica, sans-serif; 
     color: #f7f5f7;
     padding: 10px 30px;
+    border: none;
     border-radius: 5px;
     font-weight: bold;
     -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,.2);
@@ -1237,6 +1238,22 @@ iframe.depoimento {
     margin-left: 10px;
 }
 
+#thankyou_message {
+    text-align: center;
+}
+
+#thankyou_message button {
+    border: none;
+    background-color: transparent;
+    font-size: 1rem;
+    color: #b73734;
+    cursor: pointer;
+}
+
+#thankyou_message button:hover {
+    color: #E04A3C;
+}
+
 /** SERVICO - ESP. **/
 .valor-item h3 {
     margin-top: 20px;
@@ -1550,6 +1567,30 @@ div.label-left {
     }
 
 }
+
+/* 404 */
+.header404 {
+    background: url(../../img/banner-404.png) center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    max-height: 350px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    text-align: center;
+    padding: 0;
+    padding-bottom: 20px;
+    color: #ede9ec;
+}
+
+.header404 h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgba(0,0,0,.2);
+}
+
 
 /* FOOTER */
 footer {
