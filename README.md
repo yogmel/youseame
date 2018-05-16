@@ -8,8 +8,10 @@ Os dados são inseridos em uma tabela, que por sua vez são enviados para o Mail
 
 ## Partes dinâmicas
 Em assets/parts, estão os códigos para o footer e navegação.
+
 Em assets/css/styles.php e servicos/styles.php, estão guardados os códigos de chamada em CSS.
-Em assets/js/script.php e servicos/scripts.php, 
+
+Em assets/js/script.php e servicos/scripts.php, estão guardados os códigos de chamada para JS.
 
 ## Bugs e sugestões de código
 Estou super aberta à sugestões, então se houver uma maneira mais otimizada ou que seja de manutenção mais fácil, por favor abrir uma issue ou enviar um email para mim em yonashiro.mellina@gmail.com :)
