@@ -32,7 +32,7 @@
                         <p>Aguarde enquanto você é redirecionado para a nossa página inicial</p>
                     </div>
                     
-                    <form action="https://script.google.com/macros/s/AKfycbwz2T12qmYfVE7-WL_1h4aUhWLUphgokp0tUUzR4nPnpZFu-YE/exec" method="POST" id="gform">
+                    <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
                         <div class="form-control form-inline-two">
                             <div>
                                 <label for="nome">Nome *</label>
@@ -60,11 +60,11 @@
                                 <label for="solicitacao">Solicitação *</label>
                                 <select name="solicitacao" required>
                                     <option value="" disabled="disabled">Selecione um tipo</option>
-                                    <option value="orcamento" selected>Orçamento</option>
-                                    <option value="duvida">Dúvida</option>
-                                    <option value="bug">Reportar Bug</option>
-                                    <option value="comentario">Comentário</option>
-                                    <option value="outro">Outro</option>
+                                    <option value="Orçamento" selected>Orçamento</option>
+                                    <option value="Dúvida">Dúvida</option>
+                                    <option value="Reportar Bug">Reportar Bug</option>
+                                    <option value="Comentário">Comentário</option>
+                                    <option value="Outro">Outro</option>
                                 </select>
                             </div>
                         </div>
@@ -74,6 +74,7 @@
                                 <label for="nome">Sua Mensagem</label>
                                 <textarea type="text" placeholder="Seu Empresa" name="mensagem" rows="5"></textarea>
                             </div>
+                            <input type="text" name="origem" value="Solicite Orçamento" style="display:none;" >
                         </div>
 
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
