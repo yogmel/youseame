@@ -116,11 +116,13 @@ h3 em {
 
 .red, p a {
     color: #b73734;
+    -webkit-transition: 0.5s all ease;
     transition: 0.5s all ease;
 }
 
 p a:hover {
     color: #dd453c;
+    -webkit-transition: 0.5s all ease;
     transition: 0.5s all ease;
 }
 
