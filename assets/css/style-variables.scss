@@ -1,0 +1,39 @@
+/* variables */
+$red-light: #dd453c;
+$red-dark: #b73734;
+$red-lighter: #E04A3C;
+
+$blue-dark: #294659;
+$blue-light: #6aaecd;
+
+$yellow: #edb400;
+$yellow-gold: #ffc800;
+
+$dark: #333;
+$white: #fafafa;
+$light: #f7f5f7;
+$lighter: #ede9ec;
+
+$grey: #ccc;
+
+$font-lato: 'Lato', Arial, Helvetica, sans-serif;
+$font-poppins: 'Poppins', 'Roboto Slab', Arial, Helvetica, sans-serif;
+
+$box-shadow-prop: 1px 1px 5px rgba(0,0,0,.2);
+
+/* extend */
+%transition-hover {
+    -webkit-transition: 0.5s all ease;
+    transition: 0.5s all ease;
+}
+
+%box-shadow {
+    -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,.2);
+        box-shadow: 1px 1px 5px rgba(0,0,0,.2);
+}
+
+%flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}

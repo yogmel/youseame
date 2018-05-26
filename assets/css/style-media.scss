@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px) {
+    /* forms */
+    .form-control {
+        margin-top: 10px;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+    }
+    .form-inline-two > div {
+        width: 48%;
+    }
+    /* layout */
+    .row-4columns, .row-3columns, .row-2columns {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+    }
+    .row-4columns > div {
+        max-width: 25%;
+    }
+    .row-2columns > div {
+        max-width: 45%;
+        text-align: left;
+    }
+    .two-columns > div {
+        max-width: 50%;
+    }
+}
+ 
