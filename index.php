@@ -18,6 +18,7 @@
 <body>
     
     <?php
+    include 'gtagmanager.php';
     include 'assets/parts/topnavbar.php';
     ?>
 
@@ -25,7 +26,7 @@
         <div class="container">
         <div class="bg-rounded-white">
             <h1>Você está navegando sem rumo?</h1>
-            <p><strong>Chegou a hora de você ser visto.</strong> Nós temos as ferramentas e estratégias ideais para sua empresa chegar mais longe na era digital! <span class="revisao">acho que seria legal ter o uso da palavra marketing nessa frase ou no titulo</span> </p>
+            <p><strong>Chegou a hora de você ser visto.</strong> Nós temos as ferramentas e estratégias ideais para sua empresa chegar mais longe na era digital!</p>
         </div>
         </div>
     </header>
@@ -58,7 +59,7 @@
                     </div>
                     <div class="valor-item">
                         <img src="img/valor03.png" class="img-responsive" alt="Valor 3">
-                        <p>Otimizar, testar e inovar é a nossa forma de estar constantemente aprendendo. Trazemos e personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>. <span class="revisao">Diminuir os textos pra ficar com o mesmo numero de linhas/palavras</span> </p>
+                        <p>Otimizar, testar e inovar é a nossa forma de estar constantemente aprendendo. Trazemos e personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>.</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +79,7 @@
                     </div>
                     <div>
                         <i class="fas fa-bullhorn fa-3x curiosidades-img"></i>
-                        <p><strong>94,4% das empresas</strong> brasileiras estão nas redes sociais. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">Social Media Trends, 2018</a>) <span class="revisao">podemos achar um dado pra marketing de conteudo e outro pra website</span> </p>
+                        <p><strong>94,4% das empresas</strong> brasileiras estão nas redes sociais. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">Social Media Trends, 2018</a>)</p>
                     </div>
                 </div>
                 <p class="text-center"><em><strong>E você?</strong></em> <br> Seu negócio está sendo descoberto por quem importa?</p>
@@ -110,7 +111,7 @@
                                 <p>Estratégias de Copywriting, Teste A/B e Ranqueamento</p>
                             </div>
                         </div>
-                        <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red" id="homeMarketingDigital">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -134,7 +135,7 @@
                                 <p>Otimização e Responsividade</p>
                             </div>
                         </div>
-                        <a href="servicos/website-seo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/website-seo.php" class="servicos-cta btn btn-red" id="homeWebsiteSEO">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -154,7 +155,7 @@
                                 <p>Análise e criação de campanhas</p>
                             </div>
                         </div>
-                        <a href="servicos/redes-sociais.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/redes-sociais.php" class="servicos-cta btn btn-red" id="homeRedesSociais">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -177,7 +178,7 @@
                     </div>
                     <div>
                         <img src="img/solucoes/03.png" alt="Solução 3">
-                        <p>Aumente o <strong>engajamento</strong> e deixe que seu público trabalhe com a sua marca<span class="revisao"> se possivel, diminuir um pouco esse texto</span></p> 
+                        <p>Aumente o <strong>engajamento</strong> e deixe que seu público trabalhe com a sua marca</p> 
                     </div>
                     <div>
                         <img src="img/solucoes/04.png" alt="Solução 4">
@@ -194,7 +195,7 @@
                 </div>
                 <div class="solucoes-chamada container">
                     <h4>Alcance resultados incríveis e descubra qual melhor estratégia para seu negócio!</h4>
-                    <a href="contato.php" class="solucoes-cta btn btn-red">Entre em Contato!</a>
+                    <a href="contato.php" class="solucoes-cta btn btn-red" id="homeSolucoesCTA">Entre em Contato!</a>
                 </div>   
             </div>
         </section>
@@ -230,7 +231,7 @@
         <section class="home-cta bg-light">
             <h2 class="subtitle">Inspirado?</h2>
             <p>Vamos alcançar seu objetivo juntos?</p>
-            <a href="contato.php" class="btn btn-red">Solicite um Orçamento Grátis</a>
+            <a href="contato.php" class="btn btn-red" id="homeLastCTA">Solicite um Orçamento Grátis</a>
         </section>
 
     </main>
