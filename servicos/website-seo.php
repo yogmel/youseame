@@ -22,13 +22,13 @@
             <div class="pagina-titulo">
                 <h4>Website e SEO</h4>
                 <hr>
-                <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!<span class="revisao">Texto a ser criado/modificado</span></p>
-                
+                <h1>Não deixe sua imagem a deriva!</h1>
+                <p>Tenha um design atraente e poderoso para o seu negócio conquistar novos mundos </p>
+
             </div>
         </div>
     </header>
-    
+
     <main>
 
         <section class="sobre bg-red">
@@ -77,20 +77,20 @@
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
-                        <h3>Pesquisa de mercado</h3>
-                        <p>Primeiro, entendemos o seu negócio, com quem ele conversa, quais são os seus valores como empreendedor e seus principais concorrentes no segmento de atuação.</p>
-                        <p>Essa etapa de estudo é primordial para que nosso serviço seja <strong>personalizado e alinhado aos seus objetivos</strong>.</p>
-                    </div>
-                </div>
-                <div class="cd-timeline__block js-cd-block">
-                    <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                    <i class="fas fa-tasks"></i>
-                    </div>
+                      <h3>Projeto e Execução</h3>
+                      <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
+                      <p>A <strong>transparência</strong> no processo e os feedbacks constantes do cliente são uma etapa essencial para o sucesso do projeto.</p>
+                  </div>
+              </div>
+              <div class="cd-timeline__block js-cd-block">
+                  <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
+                      <i class="fas fa-chart-line"></i>
+                  </div>
 
-                    <div class="cd-timeline__content js-cd-content">
-                        <h3>Projeto e Execução</h3>
-                        <p>Planejamos e implementamos um projeto com as soluções de web design escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
-                        <p>A transparência do processo e o acompanhamento diário com os feedbacks do cliente é uma etapa essencial para o sucesso do projeto.</p>
+                  <div class="cd-timeline__content js-cd-content">
+                      <h3>Análise e Aprimoramento</h3>
+                      <p>Nossos melhores projetos são construídos com base em crescimento consistente e duradouro.</p>
+                      <p><strong>Utilizamos todos os dados obtidos para desenvolver novas estratégias</strong> e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para o lançamento de produtos e <strong>serviços mais efetivos</strong>.</p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -106,12 +106,12 @@
                 </div>
             </div>
         </section>
-        
+
         <section class="bg-red text-center">
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nosso processo funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>   
+                <a href="../contato.php" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>
             </div>
         </section>
 
@@ -163,11 +163,11 @@
                 <div class="citacao _960px">
                     <h3>Um Case de Sucesso</h3>
                     <blockquote>
-                        "Mellina helped me develop my brand identity for my new consulting company. She made the process easy, guiding where needed while also listening to what I wanted. Thanks to her, I have an awesome new website, business cards and a power point template that helps me visually put my best foot forward with new clients."
+                        "A YouSea ajudou a desenvolver a identidade de marca da minha nova empresa de consultoria. A Mellina (Webdesigner da YouSea) facilitou todo o processo, me orientou onde precisava e também escutou atentamente tudo o que eu queria. Graças a ela, tenho um novo site e incrível, cartões de visita e um modelo de powerpoint que me ajuda visualmente a colocar o melhor do meu negócio diante de meus clientes."
                     </blockquote>
                     <div class="citacao-fonte">
                         <img src="../img/servicos/webdesign/colby-5thandpine.png" alt="Foto do Cliente - Depoimento">
-                        <p>- Colby Jones, <br> 5th and Pine</p>
+                        <p>- Colby Jones, <br> 5th and Pine <em>(Tradução livre do Inglês-PT)</em></p>
                     </div>
                 </div>
             </div>
@@ -185,9 +185,8 @@
             <h2 class="subtitle text-center">Landing Page</h2>
             <div class="container _960px text-center">
                 <div>
-                    <p>O que você faria se tivesse uma única chance de convencer o seu cliente a fechar negócio com você?</p>
-                       <p> A Landing Page é uma ferramenta essencial para conversão, garantindo que seus cliques e o interesse gerado pelo seu negocio se torne efetivamente uma venda.</p>
-                    <p><strong>8 em cada 10 pessoas online só leem o título de uma informação</strong>, e a YouSea utiliza-se de estratégias essenciais para gerar resultados consistentes nas Landing pages que cria.</p>
+                    <p><em>O que você faria se tivesse uma única chance de convencer o seu cliente a fechar negócio com você?</em></p>
+                       <p> A Landing Page é uma ferramenta essencial para conversão, garantindo que seus cliques e o interesse gerado pelo seu negocio se torne efetivamente uma venda. <strong>8 em cada 10 pessoas online só leem o título de uma informação</strong>, e a YouSea está pronta para trazer o melhor resultado para sua Landing Page</p>
                 </div>
             </div>
 
@@ -199,13 +198,14 @@
                 </div>
                 <div>
                     <h3><span class="light">[Portfolio]</span> Impulse - Landing Pages</h3>
-                    <p>Landing Pages além de serem importantes para divulgação de seu produto, serviço ou app, elas são ótimas ferramentas para captação de contatos. As campanhas da Impulse englobavam uma gama completa de canais: material de Inbound Marketing, redes sociais e landing page.<span class="revisao">precisa de revisão kkkk</span> </p>
+                    <p>Além de serem importantes para divulgação de seu produto, serviço ou aplicativo, são ótimas ferramentas para captar contatos. O projeto da Impulse englobava uma gama completa de estratégias: material de <em>Inbound Marketing</em>, redes sociais e landing page.</p>
+                    <p>
                 </div>
             </div>
 
             <div class="_600px text-center">
                 <div>
-                    <h3>Pronto para contratar?</h3>
+                    <h3>Pronto para renovar sua imagem online?</h3>
                     <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
                 </div>
             </div>
@@ -219,32 +219,31 @@
             <div class="container sobre flex flex-align-center space-evenly _960px">
                 <img src="../img/servicos/webdesign/seo.png" class="img-responsive" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
-                    <p>Desenhamos seu endereço online em alto padrão de qualidade e linguagem de programação como HTML e CSS. Um site <strong>rápido, eficiente e otimizado</strong> significa uma maior chance de seu usuário ver toda a informação do seu site. <span class="revisao">escrevi uma parte nova, então precisa de revisao</span> </p>
-                        
-                    <p>Além disso, garantimos a <strong>responsividade</strong> – que faz com que o conteúdo seja visualizado sem quebras ou complicações em smartphones, tablets e desktops. </p>
-                    <p><em>Garanta a experiência completa para seus potenciais clientes!</em></p>
-                </div>
+                    <p>Desenhamos seu endereço online em alto padrão de qualidade e programação, como HTML e CSS. Uma página <strong>rápida, eficiente e otimizada</strong> é ideal para seu usuário usufruir de todas as informações do seu site. </p>
+
+                    <p>Além disso, asseguramos a <strong>responsividade</strong> – que faz com que o conteúdo seja visualizado perfeitamente em smartphones, tablets e desktops. </p>
+                  </div>
             </div>
-    
+
             <div class="container _600px text-center">
-                <h3>Meu site está lento?</h3>
-                <p>Confira grátis a eficiência do seu site com as plataformas online especialistas em análise e otimização:</p>
+                <h3>Quer fazer um teste? Saiba se o seu site está lento</h3>
+                <p>Aproveite e confira <strong>grátis</strong> nas plataformas abaixo se o seu site atual está otimizado</p>
                 <div class="otimizacao-teste">
                     <img src="../img/servicos/gtmetrix.png" alt="Logo de GTMetrix">
-            
+
                     <span>
-                        <a href="https://gtmetrix.com" target="_blank">GTMEtrix</a>: Em geral, para o seu site ser considerado otimizado, os índices precisam estar acima de C (PageSpeed e YSlow), com menos de 3s de carregamento de página, abaixo de 2MB de tamanho de página e abaixo de 100 requests. 
+                        <a href="https://gtmetrix.com" target="_blank">GTMEtrix</a>: Em geral, para o seu site ser considerado otimizado, os índices precisam estar acima de C (PageSpeed e YSlow), com menos de 3s de carregamento de página, abaixo de 2MB de tamanho de página e abaixo de 100 requests.
                     </span>
                 </div>
                 <div class="otimizacao-teste">
                     <img src="../img/servicos/pagespeed.png" alt="Logo de GTMetrix">
-                    
+
                     <span>
                         <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insights</a>: Para ser considerado bom, o índice precisa ser acima de 70, tanto para mobile como desktop.
                     </span>
                 </div>
-                
-                <p><strong>Se seus indicadores estão abaixo do esperado, esse serviço é para você!</strong></p>
+
+                <p><strong>Se seus indicadores estão baixos, esse serviço é para você!</strong></p>
             </div>
 
 
@@ -271,7 +270,7 @@
                         <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
                         <p>Você quer enviar outra mensagem? <button onclick="reloadMessage();">Clique aqui</button>. </p>
                     </div>
-                    
+
                     <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
                         <div class="form-control form-inline-two">
                             <div>

@@ -31,7 +31,7 @@
                         <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
                         <p>Aguarde enquanto você é redirecionado para a nossa página inicial</p>
                     </div>
-                    
+
                     <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
                         <div class="form-control form-inline-two">
                             <div>
@@ -125,7 +125,7 @@
                             </a>
                         </div>
                     </div>
-                </div>  
+                </div>
             </div>
         </section>
 
@@ -134,9 +134,9 @@
                 <div class="citacao _960px">
                     <h3>Um Case de Sucesso</h3>
                     <blockquote>
-                        <p>A profissional Mellina Yonashiro é extremamente educada e carismática em seu atendimento e atenção para influente. A mesma segue uma metodologia para garantir a maior qualidade e acerto para com os objetivos do cliente! O uso de metodologias foi um dos pontos a considerar a contratar o serviço!</p>
-                        <p>A profissional demonstra conhecimento e habilidade para executar as atividades e prontos necessitando de pouco envolvimento do cliente, o que significa plena confiança do cliente sobre a profissional. A Mellina demonstra o respeito pelos princípio éticos da integridade e  competência. Valores que dificilmente se encontra no mercado!</p>
-                        <p>Recomendo os serviços para outros pessoas e empresas!</p>
+                      <p>A YouSea tem uma equipe extremamente educada e carismática, dando atenção ao cliente desde o primeiro contato. Elas seguem uma metodologia para garantir a maior qualidade e acerto para com os objetivos do cliente! O processo e a metodologia foi um dos pontos fortes ao contratar o serviço!</p>
+                      <p>A equipe demonstra conhecimento e habilidade para executar as atividades, não necessitando muito envolvimento do cliente no andamento do processo, o que para mim significa plena confiança nesse trabalho. A YouSea demonstra o respeito pelos princípio éticos da integridade e competência, valores que dificilmente você encontra no mercado!</p>
+                      <p>Eu recomendo os serviços e soluções para outros pessoas e empresas!</p>
                     </blockquote>
                     <div class="citacao-fonte">
                         <img src="../img/contato/seigo-histec.png" alt="Foto do Cliente - Depoimento">
@@ -153,7 +153,7 @@
             <p>© Copyright 2018 | YouSea Marketing Digital</p>
         </div>
     </footer>
-    
+
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
     <script src="assets/js/script.js"></script>
     <script src="assets/fonts/fontawesome-all.min.js"></script>

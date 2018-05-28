@@ -6,7 +6,7 @@
                         <li><a href="../index.php">Home</a></li>
                         <li class="nav-servicos">
                                 <a href="../servicos.php" id="btnServicos">Serviços</a>
-        
+
                                 <ul>
                                     <li><a href="../servicos/marketing-digital-conteudo.php">Marketing Digital e Conteúdo</a></li>
                                     <li><a href="../servicos/website-seo.php">Webdesign e SEO</a></li>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="footer-about">
                     <img src="../img/logo-white.png" class="img-responsive" alt="YouSea Logo">
-                    <p>A YouSea é uma empresa que quer navegar junto com você nos mares do Marketing Digital. Oferecemos soluções customizadas para pequenas e médias empresas, considerando que <em>nenhum sonho é grande demais para os primeiros passos</em>.</p>
+                    <p>A YouSea é uma empresa que navega junto com seus clientes nos mares do Marketing Digital. Oferecemos soluções customizadas para empresas que querem alcançar grandes resultados</p>
                 </div>
             </div>
         </div>
