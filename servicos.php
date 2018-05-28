@@ -12,7 +12,7 @@
     <title>Serviços | YouSea - Marketing Digital</title>
 </head>
 <body>
-    
+
     <?php
     include 'assets/parts/topnavbar-white.php';
     ?>
@@ -22,12 +22,12 @@
             <div class="pagina-titulo">
                 <h4>Nossos Serviços</h4>
                 <hr>
-                <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital! <span class="revisao">Texto a ser criado/modificado</span> </p>
+                <h1>Chega de desperdiçar seu potencial</h1>
+                <p>Temos as principais estratégias para seu negócio deslanchar na era digital!</p>
             </div>
         </div>
     </header>
-    
+
     <main>
 
         <section class="servicos bg-light">
@@ -119,13 +119,13 @@
             <p>Entre em contato conosco que podemos te ajudar!</p>
             <a href="contato.php" class="btn btn-white consultores-cta">Fale com nossos Consultores</a>
         </section>
-        
+
     </main>
 
     <?php
     include 'assets/parts/footer.php';
     include 'assets/js/scripts.php';
     ?>
-    
+
 </body>
 </html>

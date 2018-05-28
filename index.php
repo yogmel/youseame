@@ -16,7 +16,7 @@
     <title>YouSea - Marketing Digital</title>
 </head>
 <body>
-    
+
     <?php
     include 'gtagmanager.php';
     include 'assets/parts/topnavbar.php';
@@ -26,19 +26,19 @@
         <div class="container">
         <div class="bg-rounded-white">
             <h1>Você está navegando sem rumo?</h1>
-            <p><strong>Chegou a hora de você ser visto.</strong> Nós temos as ferramentas e estratégias ideais para sua empresa chegar mais longe na era digital!</p>
+            <p><strong>Chegou a hora de desbravar novos mares.</strong> Temos as melhores estratégias de marketing digital para seu negócio chegar mais longe!</p>
         </div>
         </div>
     </header>
-    
+
     <main>
 
         <section class="sobre bg-red" id="homeSobre">
             <div class="container flex flex-align-center space-around">
                 <img src="img/home-sobre.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
-                    <p>A YouSea é uma empresa que entende suas necessidades e quer navegar junto com você nos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>pequenas e médias empresas</em>, considerando que nenhum sonho é grande demais para os primeiros passos.</p>
-                    <p> Nosso objetivo é entender o seu negócio e seus objetivos, construindo <strong>serviços eficientes que gerem grandes resultados</strong>!</p>
+                    <p>A <strong>YouSea</strong> é uma empresa que compreende suas necessidades, guiando e navegando junto com você pelos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>autônomos, pequenas e médias empresas</em>, e todos aqueles que sonham <strong>grande.</strong></p>
+                    <p> Nosso objetivo principal é expandir sua marca e potencializar seu negócio, construindo <strong>serviços poderosos que gerem resultados relevantes!</strong></p>
                 </div>
             </div>
         </section>
@@ -46,12 +46,12 @@
         <section class="valores">
             <div class="container">
                 <h2 class="subtitle">Por que escolher a YouSea?</h2>
-                <h3 class="text-center _600px">Lucro e relevância digital são desdobramentos de uma boa estratégia de marketing com resultados consistentes.</h3>
-                <h3 class="text-center _600px"><strong>O nosso trabalho é o mapa do tesouro para se chegar lá:</strong></h3>
+                <h3 class="text-center _600px">Grandes resultados são alcançados por bons estrategistas.</h3>
+                <h3 class="text-center _600px"><strong>Nós temos um mapa do tesouro para você chegar lá:</strong></h3>
                 <div class="flex space-between">
                     <div class="valor-item">
                         <img src="img/valor01.png" class="img-responsive" alt="Valor 1">
-                        <p>Somos 100% focados na sua história, nos seus obstáculos e objetivos. Realizamos um estudo completo do seu negócio e definimos <strong>estratégias personalizadas</strong> para sua empresa.</p>
+                        <p>Somos 100% focados na sua história e dificuldades. Realizamos um estudo completo de mercado, definindo <strong>estratégias personalizadas</strong> para você.</p>
                     </div>
                     <div class="valor-item">
                         <img src="img/valor02.png" class="img-responsive" alt="Valor 2">
@@ -59,12 +59,12 @@
                     </div>
                     <div class="valor-item">
                         <img src="img/valor03.png" class="img-responsive" alt="Valor 3">
-                        <p>Otimizar, testar e inovar é a nossa forma de estar constantemente aprendendo. Trazemos e personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>.</p>
+                        <p>Otimizar, testar e inovar é nossa fonte de aprendizado. Personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>.</p>
                     </div>
                 </div>
             </div>
         </section>
- 
+
         <section class="curiosidades bg-red">
             <div class="bg-rounded-white _600px">
                 <h2>Todo mundo já está online!</h2>
@@ -75,21 +75,21 @@
                     </div>
                     <div>
                         <i class="fas fa-bullhorn fa-3x curiosidades-img"></i>
-                        <p>As horas gastas por mês no FACEBOOK é superior à quantidade média de horas dormidas pela população brasileira (<a href="https://canaltech.com.br/redes-sociais/Brasileiro-supera-media-global-de-permanencia-no-Facebook-sao-8-horas-mensais/" target="_blank"><strong>mais de 8h mensais</strong></a>).</p>
+                        <p>A população brasileira gasta mais tempo no FACEBOOK que dormindo (<a href="https://canaltech.com.br/redes-sociais/Brasileiro-supera-media-global-de-permanencia-no-Facebook-sao-8-horas-mensais/" target="_blank"><strong>8 horas mensais no FACEBOOK</strong></a>).</p>
                     </div>
                     <div>
                         <i class="fas fa-bullhorn fa-3x curiosidades-img"></i>
-                        <p><strong>94,4% das empresas</strong> brasileiras estão nas redes sociais. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">Social Media Trends, 2018</a>)</p>
+                        <p>Empresas que produzem mais de 13 conteúdos mensais <strong>conquistam 4,2 vezes mais visitantes</strong>. (<a href="http://economia.estadao.com.br/noticias/releases-ae,pesquisa-inedita-mostra-as-principais-tendencias-no-uso-de-redes-sociais-por-empresas-brasileiras,10000097641" target="_blank">SMT, 2018</a>)</p>
                     </div>
                 </div>
-                <p class="text-center"><em><strong>E você?</strong></em> <br> Seu negócio está sendo descoberto por quem importa?</p>
+                <p class="text-center"><em><strong>E o seu negócio?</strong><br> É descoberto todos os dias por quem importa?</p></em>
             </div>
         </section>
 
         <section class="servicos bg-light">
             <div>
-                <h2 class="subtitle">Como estar online de uma maneira mais efetiva? </h2>
-                <h3 class="text-center">Nós fazemos sua empresa romper os mares digitais através de diversos serviços:</h3>
+                <h2 class="subtitle">Como estar online de forma mais efetiva? </h2>
+                <h3 class="text-center">Sua empresa romperá os mares digitais através dos seguintes serviços:</h3>
 
                 <!-- Marketing Digital e de Conteudo -->
                 <div class="servico-item flex flex-align-center container space-between">
@@ -111,12 +111,12 @@
                                 <p>Estratégias de Copywriting, Teste A/B e Ranqueamento</p>
                             </div>
                         </div>
-                        <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red" id="homeMarketingDigital">Saiba Mais</a>
+                        <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
                 <!-- Servicos - Website e SEO -->
-                <div class="servico-item flex flex-align-center container space-between">        
+                <div class="servico-item flex flex-align-center container space-between">
                     <div class="img-servicos" style="background-image: url(img/servicos/website-seo.png);"></div>
                     <div>
                         <h3>Web Design e SEO</h3>
@@ -135,7 +135,7 @@
                                 <p>Otimização e Responsividade</p>
                             </div>
                         </div>
-                        <a href="servicos/website-seo.php" class="servicos-cta btn btn-red" id="homeWebsiteSEO">Saiba Mais</a>
+                        <a href="servicos/website-seo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -144,7 +144,7 @@
                     <div class="img-servicos" style="background-image: url(img/servicos/social-media.png);"></div>
                     <div>
                         <h3>Redes Sociais (Marketing e Gerenciamento)</h3>
-                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no que sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa ao criar postagens, engajar reações e obter resultados únicos para o seu negócio.</p>
+                        <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no que sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa.</p>
                         <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-thumbs-up fa-2x"></i>
@@ -155,7 +155,7 @@
                                 <p>Análise e criação de campanhas</p>
                             </div>
                         </div>
-                        <a href="servicos/redes-sociais.php" class="servicos-cta btn btn-red" id="homeRedesSociais">Saiba Mais</a>
+                        <a href="servicos/redes-sociais.php" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -165,8 +165,8 @@
 
         <section class="solucoes">
             <div>
-                <h2 class="subtitle">Sente-se perdido?</h2>
-                <h4>A YouSea é o mapa que você precisa para entrar no mundo digital e impactar de vez o seu negócio</h4>
+                <h2 class="subtitle">Sente-se perdido e não sabe o que precisa?</h2>
+                <h4>A YouSea oferece todas as ferramentas para você entrar de vez no mundo digital</h4>
                 <div class="solucoes-itens container flex space-between">
                     <div>
                         <img src="img/solucoes/01.png" alt="Solução 1">
@@ -178,7 +178,7 @@
                     </div>
                     <div>
                         <img src="img/solucoes/03.png" alt="Solução 3">
-                        <p>Aumente o <strong>engajamento</strong> e deixe que seu público trabalhe com a sua marca</p> 
+                        <p>Aumente o <strong>engajamento</strong> e faça seu público trabalhar pela sua marca</p>
                     </div>
                     <div>
                         <img src="img/solucoes/04.png" alt="Solução 4">
@@ -190,13 +190,13 @@
                     </div>
                     <div>
                         <img src="img/solucoes/06.png" alt="Solução 6">
-                        <p><strong>O céu é o limite</strong> e nós vamos mais longe com você!</p>
-                    </div>   
+                        <p><strong>O céu é o limite</strong> e nós planejamos chegar mais longe com você!</p>
+                    </div>
                 </div>
                 <div class="solucoes-chamada container">
-                    <h4>Alcance resultados incríveis e descubra qual melhor estratégia para seu negócio!</h4>
-                    <a href="contato.php" class="solucoes-cta btn btn-red" id="homeSolucoesCTA">Entre em Contato!</a>
-                </div>   
+                    <h4>Alcance resultados incríveis e descubra a melhor estratégia para seu negócio!</h4>
+                    <a href="contato.php" class="solucoes-cta btn btn-red">Entre em Contato!</a>
+                </div>
             </div>
         </section>
 
@@ -207,9 +207,9 @@
                 <h2>O que dizem sobre nós</h2>
                 <div class="citacao _960px">
                     <blockquote>
-                    “Working with YouSea has been a wonderful experience. The exceptional communication skills, coupled with talent created an easy workflow. The feedback and attention to detail is something that YouSea has really shows. They take their time to explain her thoughts and provides reasons for and against certain choices. This helps tremendously in making decisions, and goes to show how much effort she puts in. Their attitude is delightful, and if there were any errors or miscommunication, it was handled in a professional manner. They are a trustworthy and responsible company, one of the best I’ve worked with.”
+                      “Trabalhar com a Yousea tem sido uma experiência incrível. A habilidade excepcional de se comunicar junto com talento cria um fluxo de trabalho tranquilo. O feedback e a atenção aos detalhes é algo que a Yousea realmente demostra ter. Elas analisam todos os cenários e falam o que pensam, fornecendo prós e contras de determinada escolha. Isso ajuda enormemente no momento em que você precisa tomar decisões, e também mostra o esforço e o engajamento que é colocado em cada tarefa. A atitude delas é encantadora, e se há algum erro ou problemas na comunicação, tudo é tratado de maneira profissional e transparente. A YouSea é com certeza uma empresa confiável e responsável, uma das melhores com quem trabalhei".
                     </blockquote>
-                    <p class="citacao-fonte">- Ridwan Syed, <br> CEO da DotAMastery</p>
+                    <p class="citacao-fonte">- Ridwan Syed, <br> CEO da DotAMastery <em>(Tradução livre Inglês-PT)</em> </p>
                 </div>
 
                 <hr class="thick">
@@ -229,9 +229,9 @@
         </section>
 
         <section class="home-cta bg-light">
-            <h2 class="subtitle">Inspirado?</h2>
-            <p>Vamos alcançar seu objetivo juntos?</p>
-            <a href="contato.php" class="btn btn-red" id="homeLastCTA">Solicite um Orçamento Grátis</a>
+            <h2 class="subtitle">Inspirado a viver no mundo digital? </h2>
+            <p>Que tal navegarmos juntos para alcançar seus objetivos?</p>
+            <a href="contato.php" class="btn btn-red">Solicite um Orçamento Grátis</a>
         </section>
 
     </main>

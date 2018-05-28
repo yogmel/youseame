@@ -23,20 +23,20 @@
                 <h4>Redes Sociais</h4>
                 <hr>
                 <h1>Esteja conectado com a nova era digital!</h1>
-                <p>Nós temos as estratégias certas para que a sua interação com o cliente seja mais efetiva, direta e personalizada</p>
-                
+                <p>Temos as estratégias certas para que a sua interação seja mais efetiva, direta e personalizada</p>
+
             </div>
         </div>
     </header>
-    
+
     <main>
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
                 <img src="../img/servicos/redes-sociais/redes-sociais.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
-                    <h2 class="subtitle left-align">Como fazemos das Redes Sociais um mar de oportunidades?</h2>
-                    <p>São estratégias de marketing, ou seja, ações de comunicação, que usam canais online como mídia. Com a ascensão dos meios de comunicação digitais, ter uma presença online e cuidar da sua imagem virtual vem se tornado cada vez mais importante. <span class="revisao">revisar texto e sua interação com a pergunta</span> </p>
+                    <h2 class="subtitle left-align">Por que Redes Sociais são importantes?</h2>
+                    <p>Esse é o mar que toda empresa precisa navegar. Através de estratégias de marketing em mídias sociais, você terá diversas oportunidades de interagir de forma relevante com seus potenciais clientes! Ter presença online vem se tornado cada vez mais importante. </p>
                 </div>
             </div>
         </section>
@@ -48,7 +48,7 @@
                     <div class="valor-item">
                         <a href="#servicoGerenciamentoRedes">
                             <i class="fas fa-thumbs-up fa-3x"></i>
-                            <h3>Gerenciamento de Redes Sociais</h3>
+                            <h3>Gerenciamento e conteúdo para Redes Sociais</h3>
                         </a>
                     </div>
                     <div class="valor-item">
@@ -70,20 +70,20 @@
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
-                        <h3>Pesquisa e Estudo</h3>
-                        <p>Primeiro, entendemos o seu negócio, com quem ele conversa, quais são os seus valores como empreendedor e seus principais concorrentes no segmento de atuação.</p>
-                        <p>Essa etapa de estudo é primordial para que nosso serviço seja <strong>personalizado e alinhado aos seus objetivos</strong>. </p>
-                    </div>
-                </div>
-                <div class="cd-timeline__block js-cd-block">
-                    <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                    <i class="fas fa-tasks"></i>
-                    </div>
+                      <h3>Projeto e Execução</h3>
+                      <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
+                      <p>A <strong>transparência</strong> no processo e os feedbacks constantes do cliente são uma etapa essencial para o sucesso do projeto.</p>
+                  </div>
+              </div>
+              <div class="cd-timeline__block js-cd-block">
+                  <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
+                      <i class="fas fa-chart-line"></i>
+                  </div>
 
-                    <div class="cd-timeline__content js-cd-content">
-                    <h3>Projeto e Execução</h3>
-                        <p>Planejamos e implementamos um projeto com as soluções e as redes sociais escolhidas como o foco do processo. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
-                        <p>A transparência do processo e o acompanhamento diário com os feedbacks do cliente é uma etapa essencial para o sucesso do projeto.</p>
+                  <div class="cd-timeline__content js-cd-content">
+                      <h3>Análise e Aprimoramento</h3>
+                      <p>Nossos melhores projetos são construídos com base em crescimento consistente e duradouro.</p>
+                      <p><strong>Utilizamos todos os dados obtidos para desenvolver novas estratégias</strong> e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para o lançamento de produtos e <strong>serviços mais efetivos</strong>.</p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -99,27 +99,27 @@
                 </div>
             </div>
         </section>
-        
+
         <section class="bg-red text-center">
             <div class="container">
                 <h2 class="subtitle _600px">Quer saber qual a rede social mais relevante para o seu negócio?</h2>
-                <p>Entre em contato conosco e faça uma análise grátis!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Descobrir agora</a>   
+                <p>Entre em contato e faça uma análise grátis!</p>
+                <a href="../contato.php" class="btn btn-white consultores-cta">Quero descobrir agora</a>
             </div>
         </section>
 
-        <!-- Serviço - Gerenciamento de Redes Sociais -->
+        <!-- Serviço - Gerenciamento e Conteúdo de Redes Sociais -->
         <section class="servicos-descricao" id="servicoGerenciamentoRedes">
-            <h2 class="subtitle text-center">Gerenciamento de Redes Sociais</h2>
+            <h2 class="subtitle text-center">Gerenciamento e Conteúdo de Redes Sociais</h2>
             <div class="container sobre flex flex-align-center space-evenly">
                 <img src="../img/servicos/redes-sociais/gerenciamento.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
-                    <p>Conexão tem tudo a ver com o mundo digital que vivemos. Por conta de seus diferentes estilos e linguagens, é essencial ter uma equipe especializada nas estratégias voltadas para cada tipo de rede. É com ela que seu negócio pode crescer em público e vendas. <span class="revisao">talvez colocar um paragrafo a mais?</span> </p>
+                    <p><strong>Conexão</strong> tem tudo a ver com o mundo digital em que vivemos. Por conta de seus <strong>diferentes estilos, público alvo e linguagens</strong>, é essencial ter ao seu lado uma equipe que entende como essas redes sociais funcionam. <strong>Criar estratégias voltadas para cada tipo de rede social é primordial</strong>. Com um bom conteúdo e planejamento, seu negócio crescerá em público, fãs e vendas. </p>
                 </div>
             </div>
 
             <div class="container _600px">
-                <h3 class="text-center">Com quais redes sociais a YouSea trabalha?</h3>
+                <h3 class="text-center">Quais redes sociais a YouSea trabalha?</h3>
                 <div class="row-4columns">
                     <div>
                         <i class="fab fa-facebook-square fa-2x"></i>
@@ -144,7 +144,7 @@
                 <div class="citacao _960px">
                     <h3>Um Case de Sucesso</h3>
                     <blockquote>
-                        “Há 2 meses contratei o serviço de Marketing Digital da empresa da Melina, (Yogmel Consultoria em Design), e minha página no Facebook já teve uma grande melhora, atenciosa e com boas ideias sempre disposta a ajudar, profissional assim é quem faz a diferença, super indico!”
+                        “Há dois meses contratei o serviço de Marketing Digital da YouSea [Gerenciamento de redes sociais e criação de campanhas] e minha página no Facebook já teve uma grande melhora. A equipe é atenciosa, tem boas ideias e estão sempre dispostas a ajudar. Profissionais assim são os que fazem a diferença. Super indico!”
                     </blockquote>
                     <div class="citacao-fonte">
                         <img src="../img/servicos/redes-sociais/willywhite-cliente.png" alt="Foto do Cliente - Depoimento">
@@ -175,10 +175,10 @@
             </div>
 
             <div class="container _600px text-center">
-                <h3>Preparado para focar no que realmente importa? <span class="revisao">revisar essa chamada</span> </h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                <h3>Pronto para aumentar o alcance do seu negócio?</h3>
+                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
             </div>
-            
+
         </section>
 
         <hr class="separator-red">
@@ -190,6 +190,7 @@
                 <div>
                     <p>Nós trabalhamos com focos específicos de curto e médio prazo para seu serviço ou produto. Através de análise prévia do seu negócio e planejamento, criamos <strong>campanhas promocionais ou de novos produtos</strong> com foco no engajamento e interação com o público.</p>
                     <p>Você foca no que é importante e nós conquistamos as suas curtidas!</p>
+                    <p><strong>Veja o exemplo da página do 'Mágico Willy White':</strong> </p>
                 </div>
             </div>
 
@@ -199,22 +200,22 @@
                     <div class="servicos-img-itens">
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
-                            <p><strong>8 horas/mês</strong> é o tempo médio que o brasileiro passa no Facebook. <span class="revisao">colocar dados das campanhas em si. se nao achar interessante, podemos tirar essa parte</span> </p>
+                            <p>A página cresceu <strong>17.65%</strong> em número de curtidas e <strong>540%</strong> em engajamento <strong>com apenas 3 meses de gerenciamento da YouSea.</strong></p>
                         </div>
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
-                            <p>De 2014 a 2016, o <strong> tempo gasto em mídias digitais triplicou.</strong></p>
+                            <p>Cerca de <strong>20.241 pessoas foram alcançadas</strong> através das nossas postagens. Isso representa um <strong>crescimento de 1.157%</strong> com relação ao nosso primeiro dia de trabalho.</p>
                         </div>
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
-                            <p>O Brasil possui mais de <strong> 8 milhões de usuários em redes sociais. </strong></p>
+                            <p>A postagem mais bem sucedida no momento <strong>soma mais de 350 interações</strong>. O vídeo alcançou <strong>8.557 pessoas</strong> com um investimento de <strong>apenas R$7 reais.</strong></p>
                         </div>
                     </div>
                 </div>
             </div>
-    
+
             <div class="container _600px text-center">
-                <h3>Vamos dar um up no engajamento de suas redes?</h3>
+                <h3>Preparado para turbinar suas redes sociais?</h3>
                 <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
             </div>
         </section>
@@ -235,7 +236,7 @@
                         <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
                         <p>Você quer enviar outra mensagem? <button onclick="reloadMessage();">Clique aqui</button>. </p>
                     </div>
-                    
+
                     <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
                         <div class="form-control form-inline-two">
                             <div>
