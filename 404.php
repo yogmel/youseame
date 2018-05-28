@@ -13,7 +13,7 @@
     <!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.helper.ie8.js"></script><![endif]-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
 
-    <title>Página à deriva| YouSea - Marketing Digital</title>
+    <title>Página à deriva | YouSea - Marketing Digital</title>
 </head>
 <body>
 

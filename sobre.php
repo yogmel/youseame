@@ -7,7 +7,7 @@
     <?php
     include 'gtag.php';
     include 'assets/css/styles.php';
-    ?>
+    ?>   
 
     <title>Sobre | YouSea - Marketing Digital</title>
 </head>
@@ -22,8 +22,8 @@
             <div class="pagina-titulo">
                 <h4>Sobre a YouSea</h4>
                 <hr>
-                <h1>Não desperdice seu potencial</h1>
-                <p>Nós temos as ferramentas e estratégias principais pra sua empresa sair na frente na era digital!<span class="revisao">Texto a ser criado/modificado</span></p>
+                <h1>Construímos resultados que geram valor ao seu negócio</h1>
+                <p>Navegue pelos mares do marketing digital ao lado de quem trabalha pelo seu sucesso</p>
             </div>
         </div>
     </header>
@@ -32,7 +32,7 @@
 
         <section class="bg-red text-center">
             <div class="container _960px">
-                <h2 class="subtitle big-subtitle">Proporcionar e <strong>construir relacionamentos incríveis</strong> é o principal combustível da nossa tripulação</h2>
+                <h2 class="subtitle big-subtitle"> <strong>Construir relacionamentos incríveis</strong> com <strong>resultados transformadores</strong> é o principal motor da nossa embarcação</h2>
             </div>
         </section>
 
@@ -43,31 +43,32 @@
                         <h2 class="subtitle">Nossos Valores</h2>
                         <div>
                             <img src="img/sobre/valor002.png" class="img-responsive" alt="Valor 1">
-                            <h4><strong>Transparência</strong> e Honestidade</h4>
+                            <h4><strong>Ser transparente</strong> e focado no cliente</h4>
                         </div>
                         <div>
                             <img src="img/sobre/valor001.png" class="img-responsive" alt="Valor 2">
-                            <h4>Troca constante de <strong>experiências</strong></h4>
+                            <h4>Gerar <strong> experiências positivas</strong></h4>
                         </div>
                         <div>
                             <img src="img/sobre/valor003.png" class="img-responsive" alt="Valor 3">
-                            <h4><strong>Inovar</strong> e não complicar</h4>
+                            <h4><strong>Inovar</strong>, adaptar e simplificar</h4>
                         </div>
                     </div>
                     <div class="historia">
-                        <p>No meio do mar de informações e possibilidades, é fácil para qualquer tripulante de primeira viagem se perca no meio de tantos títulos iguais. Afinal, marketing digital e tecnologia são os assuntos do momento e não há uma só pessoa que não tenha ouvido falar sobre eles.</p>
-                        <p>A <strong>YouSea</strong> era um tripulante novato que se tornou capitão. Com o tempo, sentiu a necessidade de proporcionar soluções de Marketing Digital que não só trazem resultados como empoderam os novos clientes nesse mar digital. Lado a lado, trabalhamos com <strong>processos transparentes, soluções personalizadas e foco total na sua história, seus objetivos e seus principais obstáculos</strong> para que você seja visto pelo seu público.</p>
+                        <p>Navegar no <strong>mar do empreendedorismo</strong> é uma tarefa desafiadora para todos os tripulantes que decidem ser donos do seu próprio negócio. Na era digital, entender e desenvolver <strong>estratégias de marketing alinhados as inovações da tecnologia</strong> são desafios diários para seus resultados.</p>
+                        <p>A <strong>YouSea</strong> era um tripulante novato que se tornou capitão. Com experiência prática no mercado, desenvolveu <strong>soluções completas de Marketing Digital</strong> com um serviço pessoal e especializado. <strong>Nossa missão</strong> é que essas soluções dêem poder aos nossos clientes para alcançar resultados com significado.</p> 
+                        <p>Lado a lado, trabalhamos com <strong>processos transparentes, soluções personalizadas e foco total na sua história, seus objetivos e suas dificuldades</strong>. Inovando e gerando experiências positivas, fazemos o seu negócio <strong> ser visto por quem realmente importa<strong>.</p>
                     </div>
                 </div>
 
                 <div class="highlight-quote">
-                    <h4 class="semibig-subtitle text-center _960px">O aumento das vendas e os <strong>bons resultados são consequências</strong> evidentes do nosso compromisso com <strong>relacionamentos mais verdadeiros</strong> e significativos entre empresas e clientes.</h4>
+                    <h4 class="semibig-subtitle text-center _960px"><em>"Pessoas de sucesso e sem sucesso não se diferenciam por suas habilidades. Elas divergem em seus desejos de alcançar o seu potencial"</em> - John Maxwell</h4>
                 </div>
 
                 <hr class="separator-red">
 
                 <div class="sobre-depoimento">
-                    <h2>O que os clientes dizem de nós</h2>
+                    <h2>O que os clientes tem a dizer sobre nós</h2>
                     <div class="citacao _960px">
                         <iframe src="https://player.vimeo.com/video/267676509" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="depoimento"></iframe>
                     </div>
@@ -79,11 +80,11 @@
         <section class="sobre-time bg-blue">
             <div class="container">
                 <h2 class="subtitle">Conheça nossos tripulantes</h2>
-                <p class="text-center">O nosso time busca constantemente novas maneiras de fazer marketing digital e se mostra qualificada para qualquer solução de seus clientes. Agregamos expertises fora do arroz-feijão da área de comunicação, mas sem deixar de colecionar certificações que são referência na área de Marketing Digital.</p>
+                <p class="text-center">O nosso time busca novas maneiras de fazer marketing digital todos os dias. Diversidade de conhecimentos faz parte da nossa essênciua. Agregamos expertises fora do arroz-feijão da área de comunicação sem deixar de colecionar certificações que são referência na área de Marketing Digital.</p>
                 <div class="flex time-descricao space-around">
                     <div class="bg-rounded-white">
-                        <img src="img/sobre/bru.png" class="img-responsive" alt="Foto de Bruna G, copyrighter">
-                        <h3>Bruna Gil, Redatora</h3>
+                        <img src="img/sobre/bru.png" class="img-responsive" alt="Foto de Bruna G, redatora">
+                        <h3>Bruna Gil - Redatora</h3>
                         <p>Formada em relações internacionais e estudante de gestão de negócios, é cofundadora da YouSea e atua como responsável de marketing de conteúdo e soluções para redes sociais. É apaixonada por criação de conteúdo e empreendedorismo, e busca melhorar o mundo através da escrita. </p>
                         <div class="sobre-redes-sociais">
                             <a href="https://www.linkedin.com/in/brunaggil/" target="_blank"> <i class="fab fa-linkedin fa-3x"></i> </a>
@@ -94,7 +95,7 @@
 
                     <div class="bg-rounded-white">
                         <img src="img/sobre/mell.png" class="img-responsive" alt="Foto de Mellina Y, designer">
-                        <h3>Mellina Yonashiro, Designer</h3>
+                        <h3>Mellina Yonashiro - Designer</h3>
                         <p>Designer com mais de três anos de experiência na área de criação, programação e web design, é cofundadora da YouSea e idealizadora das soluções de Web Design e SEO. Apaixonada por jogos e tecnologia, é engajada com projetos de empoderamento e presença feminina na tecnologia, atuando como professora <a href="http://www.reprograma.com.br" target="_blank">Reprograma</a>. </p>
                         <div class="sobre-redes-sociais">
                             <a href="https://github.com/yogmel" target="_blank"> <i class="fab fa-github-square fa-3x"></i> </a>
