@@ -133,7 +133,7 @@
                         <h3>Procurando conteúdo para o seu Blog?</h3>
                         <h4><em>Conheça nosso serviço de conteúdo</em></h4>
                     </div>
-                    <a href="marketing-digital-conteudo.php#servicoCriacaoConteudo" target="_blank" class="btn btn-red">Conheça agora</a>
+                    <a href="marketing-digital-conteudo.php#servicoCriacaoConteudo" target="_blank" class="btn btn-yellow">Conheça agora</a>
                 </div>
             </div>
 

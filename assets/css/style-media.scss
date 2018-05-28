@@ -1,4 +1,30 @@
 @media screen and (min-width: 768px) {
+    /* general */
+    .container {
+        padding: 15px 50px;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1.17rem;
+    }
+    p {
+        font-size: 1.2rem;
+    }
+    section h2 {
+        font-size: 1.5rem;
+        margin-bottom: 40px;
+    }
+    .bg-rounded-white {
+        padding: 30px 45px;
+    }
+    .flex {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+    }
     /* forms */
     .form-control {
         margin-top: 10px;
@@ -27,5 +53,329 @@
     .two-columns > div {
         max-width: 50%;
     }
+    /* home */
+    .home-header {
+        text-align: left;
+        padding: 50px;
+        p {
+            font-size: 1.3rem;
+        }
+    }
+    .sobre {
+        img {
+            max-width: 400px;
+            margin-right: 30px;        
+        }
+        p {
+            margin-top: 20px;
+        }
+    }
+    .valor-item {
+        width: 100%;
+        max-width: 30%;
+        margin-bottom: 0;
+    }
+    .curiosidades > .bg-rounded-white {
+        border-radius: 10px;
+        padding: 30px;
+    }
+    .servico-item {
+        -webkit-box-align: stretch;
+            -ms-flex-align: stretch;
+                align-items: stretch;
+        padding: 0;
+        img {
+            max-width: 40%;
+        }
+    }
+    .servico-item > div {
+        padding: 50px;
+    }
+    .servico-produtos {
+        margin-bottom: 0;
+        p {
+            font-size: 1rem;
+        }
+    }
+    .servicos .servico-item:nth-child(odd) > div.img-servicos {
+        -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+                order: 2;
+    }
+    .servico-item h3, .servico-item > div > p {
+        text-align: left;
+    }
+    .servicos-cta {
+        text-align: left;
+        display: inline-block;
+    }
+
+    .solucoes-itens > div {
+        max-width: 30%;
+    }
+    .solucoes-itens > div > img {
+        max-width: 150px;
+    }
+   
+    .solucoes-chamada h4 {
+        font-size: 1.5rem;
+    }
+    
+    .citacao blockquote {
+        font-size: 1.8rem;
+        font-weight: 300;
+    }
+    .clientes-logo img {
+        margin-bottom: 20px;
+    }
+    /* pag - sobre */
+    .sobre-historia-valores > div {
+        display: block;
+        margin-top: 25px;
+    }
+    .historia {
+        margin-left: 30px;
+    }
+    .sobre-time div.flex > div {
+        margin-left: 20px;
+    }
+    .sobre-time .bg-rounded-white {
+        padding: 20px 30px;
+    }
+    iframe.depoimento {
+        height: 60vh;
+    }
+    .sobre-historia-valores {
+        max-width: 100%;
+    }
+    /* pag - servicos */
+    .servico-item:nth-child(odd) .servicos-categoria {
+        margin-right: 30px;
+    }
+    .servico-item:nth-child(even) .servicos-categoria {
+        margin-left: 30px;
+    }
+    .servicos-acessar a {
+        max-width: 48%;
+        padding: 10px;
+    }
+    .servicos-acessar {
+        margin-top: 30px;
+    }
+    .consultores-cta {
+        padding: 10px 70px;
+    }
+    /* pag - contato */
+    .bg-rounded-white.contato-form {
+        padding: 30px 20px;
+    }
+    .contato-redes {
+       margin-left: 20px;
+    }
+    .form-control > div {
+        margin-top: 10px;
+    }
+    /* pag - servico esp */
+    .servicos-depoimentos .citacao {
+        padding: 45px;
+    }
+    .servicos-img-itens {
+        text-align: left;
+        h4 {
+            margin-bottom: 20px;
+        }
+        div {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            margin-top: 20px;
+        }
+        div p {
+            margin: 0;
+        }    
+    }
+    /* servicos - webdesign */
+    .otimizacao-teste {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+    }
+    .portfolio-cliente .tns-outer {
+        max-width: 45%;
+    }
+    .portfolio-cliente .tns-outer + div {
+        margin-left: 20px;
+    }
+    /* footer */
+    .footer-conteudo {
+        padding: 40px;
+    }
+    .footer-conteudo > div > div {
+        max-width: 33%;
+        margin-bottom: 0;
+    }
+    .footer-conteudo > div > div:nth-child(2) {
+        margin: 0 50px;
+    }
+    .footer-mapa {
+        text-align: left;
+    }
+    .footer-mapa ul, .footer-mapa li:first-child {
+        margin-top: 0;
+    }
+    .footer-mapa li {
+        margin-top: 10px;
+    }   
+    .footer-redes-sociais > div img {
+        margin-right: 20px;
+    }
+    .footer-redes-sociais > div > div {
+        margin-bottom: 0px;
+    }
 }
  
+
+@media screen and (min-width: 1024px) {
+    /* navbar */
+    .nav-toggle {
+        display: none;
+    }
+    .nav-brand {
+        width: auto;
+    }
+    .topbar {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .topbar > div {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+    }
+    .nav-collapse {
+        background-color: transparent;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: flex-end;
+        padding-right: 0;
+    }
+    .nav-collapse > div {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: flex-end;
+    }
+    .nav-collapse ul.navbar > li {
+        display: inline;
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+    .navbar {
+        width: auto;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+        margin-left: auto;
+        li {
+            margin-right: 30px;
+            a {
+                display: inline;
+            }
+        }
+    }
+    .top-img {
+        width: 40px;
+    }
+    #listaNavServicos {
+        min-width: 280px;
+        position: absolute;
+        top: 25px;
+        left: 0;
+        opacity: 0;
+        display: none;
+        -webkit-transition: .2s all ease-in-out;
+        transition: .2s all ease-in-out;
+        li {
+            display: inline-block;
+            margin-top: 15px;
+        }
+    }
+    .navbar li:hover #listaNavServicos {
+        opacity: 1;
+        display: block;
+        -webkit-transition: .2s all ease-in-out;
+        transition: .2s all ease-in-out;
+    }
+    .topbar.white .nav-collapse {
+        background-color: transparent;
+    }
+    /* home */
+    .servico-item > div {
+        padding: 35px;
+    }
+    /* pag - sobre */
+    .sobre-redes-sociais {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+        a {
+            color: $blue-light;
+            margin-right: 20px;
+            -webkit-transition: 0.5s all ease;
+            transition: 0.5s all ease;
+            &:hover {
+                color: #294659;
+                -webkit-transition: 0.5s all ease;
+                transition: 0.5s all ease;
+            }
+        }
+    }
+    .sobre-time div.flex > div {
+        margin-left: 50px;
+    }
+    .sobre-historia .flex {
+        -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    }
+    .historia {
+        width: 70%;
+    }
+    .sobre-historia-valores > div {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    /* pag - servicos */
+    .servicos-acessar a {
+        max-width: 40%;
+    }
+    /* pag - contato */
+    .bg-rounded-white.contato-form {
+        padding: 30px 45px;
+    }
+    .contato-form {
+        width: 80%;
+    }
+    .contato-redes {
+        padding: 0 40px;
+        text-align: left;
+        div img {
+            margin-top: 0;
+            margin-right: 15px;
+        }
+    }
+    /* servicos - webdesign */
+    .website-layout > div {
+        padding: 50px;
+    }
+}
