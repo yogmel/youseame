@@ -78,6 +78,9 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
       return false;
     }
   } else {
+    document.getElementById("overlay").style.display = "block";
+    document.getElementById("loader").style.display = "block";
+    document.querySelector("body").style.overflow = "hidden";
     var url = event.target.action;
     var xhr = new XMLHttpRequest();
     xhr.open('POST', url);
@@ -86,7 +89,10 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
     xhr.onreadystatechange = function() {
         console.log( xhr.status, xhr.statusText )
         console.log(xhr.responseText);
+        document.getElementById("loader").style.display = "none"; // hide loader
+        document.getElementById("overlay").style.display = "none";
         document.getElementById("gform").style.display = "none"; // hide form
+        document.querySelector("body").style.overflow = "auto";
         var thankYouMessage = document.getElementById("thankyou_message");
         var titleForm = document.getElementById("contact_title");
         if (thankYouMessage) {
