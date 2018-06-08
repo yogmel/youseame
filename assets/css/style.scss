@@ -1040,6 +1040,86 @@ iframe.depoimento {
     margin-top: 20px;
 }
 
+.loader4{
+    margin-top: 20px;
+    position: relative;
+    width: 150px;
+    height: 20px;
+    top: 45%;
+    top: -webkit-calc(50% - 10px);
+    top: calc(50% - 10px);
+    left: 25%;
+    left: -webkit-calc(50% - 75px);
+    left: calc(50% - 75px);
+    background-color: $red-dark;
+}
+
+.loader4:before{
+    content: "";
+    position: absolute;
+    background-color: $red-light;
+    top: 0px;
+    left: 0px;
+    height: 20px;
+    width: 0px;
+    z-index: 0;
+    opacity: 1;
+    -webkit-transform-origin:  100% 0%;
+            transform-origin:  100% 0% ;
+    -webkit-animation: loader4 10s ease;
+            animation: loader4 10s ease;
+}
+
+@-webkit-keyframes loader4{
+    0%{width: 0px;}
+    100%{width: 100%; opacity: 1;}
+}
+
+@keyframes loader4{
+    0%{width: 0px;}
+    100%{width: 100%; opacity: 1;}
+}
+
+
+.loader {
+    display: none;
+    border: 16px solid $white;
+    border-radius: 50%;
+    border-top: 16px solid $red-light;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+0% { -webkit-transform: rotate(0deg); }
+100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
+}
+
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none;
+    overflow: hidden;
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+}
+
 .contato-redes {
     display: -webkit-box;
     display: -ms-flexbox;

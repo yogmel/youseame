@@ -35,7 +35,7 @@
 
         <section class="sobre bg-red" id="homeSobre">
             <div class="container flex flex-align-center space-around">
-                <img src="img/home-sobre.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="img/home-sobre.png" class="img-responsive" alt="Ilustração de um computador com gráficos coloridos">
                 <div>
                     <p>A <strong>YouSea</strong> é uma empresa que compreende suas necessidades, guiando e navegando junto com você pelos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>autônomos, pequenas e médias empresas</em>, e todos aqueles que sonham <strong>grande.</strong></p>
                     <p> Nosso objetivo principal é expandir sua marca e potencializar seu negócio, construindo <strong>serviços poderosos que gerem resultados relevantes!</strong></p>

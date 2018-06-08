@@ -8,6 +8,8 @@
     include '../gtag.php';
     include 'styles.php';
     ?>
+    <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
     <title>Marketing Digital e de Conteúdo | YouSea - Marketing Digital</title>
 </head>
@@ -33,7 +35,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/marketing/marketing-sobre.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/marketing-sobre.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div>
                     <h2 class="subtitle left-align">E o que é Marketing Digital?</h2>
                     <p>São <strong>ações de comunicação de serviços, produtos ou marcas através das mídias digitais</strong>. A internet mudou a forma de interação dos consumidores com o marketing, e por isso as estratégias também mudaram.</p>
@@ -46,20 +48,20 @@
             <div class="container">
                 <h2>Como fazemos Marketing Digital?</h2>
                 <div class="flex space-between">
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn">
                         <a href="#servicoCriacaoConteudo">
                             <i class="fas fa-paper-plane fa-3x"></i>
                             <h3>Produção de conteúdo</h3>
                             <h4>Inbound Marketing</h4>
                         </a>
                     </div>
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
                         <a href="#servicoSEO">
                             <i class="fas fa-crosshairs fa-3x"></i>
                             <h3>SEO e AdWords</h3>
                         </a>
                     </div>
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn" data-wow-delay="1s">
                         <a href="#servicoEstrategiaMarketing">
                             <i class="fas fa-chart-pie fa-3x"></i>
                             <h3>Estratégias de Marketing</h3>
@@ -121,7 +123,7 @@
         <section class="servicos-descricao" id="servicoCriacaoConteudo">
             <h2 class="subtitle text-center">Produção de conteúdo</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/marketing/criacao-conteudo.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/criacao-conteudo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div>
                     <p><em> Seus clientes já estão online e diariamente procuram soluções e produtos em sites de busca e redes sociais! </em> Sabe aquela história que as pessoas devem estar no lugar certo na hora certa? Isso é exatamente o objetivo do <strong>Marketing de Conteúdo</strong>.</p>
                     <p>Assim, a produção de conteúdo visa publicar <strong>informações relevantes e importantes para os seus potenciais clientes</strong>, a fim de atrair, converter e cativar o seu público. Assim sua marca ganha <em>reconhecimento e reputação online</em>. A atração do seu público através de conteúdo relevante é chamado <em>Inbound Marketing</em>.</p>
@@ -350,11 +352,13 @@
 
     </main>
 
+        <script src="../assets/js/wow.min.js" type="text/javascript"></script>
     <?php
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
     <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
+
 
 </body>
 </html>
