@@ -283,6 +283,8 @@
                         </div>
 
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
+                        <div id="overlay"></div>
+                        <div class="loader" id="loader"></div>
                     </form>
 
                 </div>
