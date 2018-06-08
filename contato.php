@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <?php
-    include 'gtag.php';
-    include 'assets/css/styles.php';
+        include 'gtag.php';
+        include 'assets/css/styles.php';
     ?>
 
     <link rel="shortcut icon" href="assets/favicon.ico?v=2" type="image/x-icon">
     <link rel="icon" href="assets/favicon.ico?v=2" type="image/x-icon">
 
-    <title>Solicite Orçamento | YouSea - Marketing Digital</title>
+    <title>Entre em Contato | YouSea - Marketing Digital</title>
 </head>
 <body>
 
@@ -21,6 +21,7 @@
         <section class="contato bg-light">
             <div class="container flex">
                 <div class="contato-form bg-rounded-white">
+                
                     <div id="contact_title">
                         <h2 class="subtitle">Tem alguma dúvida?</h2>
                         <h3>Entre em contato com a gente!</h3>
@@ -30,6 +31,9 @@
                         <h2 class="subtitle">Obrigada!</h2>
                         <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
                         <p>Aguarde enquanto você é redirecionado para a nossa página inicial</p>
+                        <div class="box">
+                            <div class="loader4"></div>
+                        </div>
                     </div>
 
                     <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
@@ -78,8 +82,9 @@
                         </div>
 
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
+                        <div id="overlay"></div>
+                        <div class="loader" id="loader"></div>
                     </form>
-
                 </div>
 
                 <div class="contato-redes">
@@ -154,7 +159,7 @@
         </div>
     </footer>
 
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="assets/js/script.js"></script>
     <script src="assets/fonts/fontawesome-all.min.js"></script>
     <script data-cfasync="false" type="text/javascript" src="assets/js/form-handler.js"></script>
