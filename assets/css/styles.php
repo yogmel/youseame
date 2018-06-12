@@ -3,4 +3,3 @@
 
 <link rel="shortcut icon" href="assets/favicon.ico?v=2" type="image/x-icon">
 <link rel="icon" href="assets/favicon.ico?v=2" type="image/x-icon">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">

@@ -33,7 +33,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/redes-sociais/redes-sociais.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/redes-sociais/redes-sociais.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <h2 class="subtitle left-align">Por que Redes Sociais são importantes?</h2>
                     <p>Esse é o mar que toda empresa precisa navegar. Através de estratégias de marketing em mídias sociais, você terá diversas oportunidades de interagir de forma relevante com seus potenciais clientes! Ter presença online vem se tornado cada vez mais importante. </p>
@@ -45,13 +45,13 @@
             <div class="container _960px">
                 <h2>Como fazemos das Redes Sociais um mar de oportunidades?</h2>
                 <div class="flex space-between">
-                    <div class="valor-item wow ZoomIn">
+                    <div class="valor-item">
                         <a href="#servicoGerenciamentoRedes">
                             <i class="fas fa-thumbs-up fa-3x"></i>
                             <h3>Gerenciamento e conteúdo para Redes Sociais</h3>
                         </a>
                     </div>
-                    <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
+                    <div class="valor-item">
                         <a href="#servicoCampanhas">
                             <i class="fas fa-calendar-alt fa-3x"></i>
                             <h3>Criação, execução e análise de campanhas</h3>
@@ -81,9 +81,9 @@
                   </div>
 
                   <div class="cd-timeline__content js-cd-content">
-                        <h3>Projeto e Execução</h3>
-                        <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
-                        <p>A <strong>transparência</strong> no processo e os feedbacks constantes do cliente são uma etapa essencial para o sucesso do projeto.</p>
+                      <h3>Análise e Aprimoramento</h3>
+                      <p>Nossos melhores projetos são construídos com base em crescimento consistente e duradouro.</p>
+                      <p><strong>Utilizamos todos os dados obtidos para desenvolver novas estratégias</strong> e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para o lançamento de produtos e <strong>serviços mais efetivos</strong>.</p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -104,7 +104,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Quer saber qual a rede social mais relevante para o seu negócio?</h2>
                 <p>Entre em contato e faça uma análise grátis!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Quero descobrir agora</a>
+                <a href="../contato.php?origin=redessociais-timeline" class="btn btn-white consultores-cta">Quero descobrir agora</a>
             </div>
         </section>
 
@@ -112,7 +112,7 @@
         <section class="servicos-descricao" id="servicoGerenciamentoRedes">
             <h2 class="subtitle text-center">Gerenciamento e Conteúdo de Redes Sociais</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/redes-sociais/gerenciamento.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/redes-sociais/gerenciamento.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <p><strong>Conexão</strong> tem tudo a ver com o mundo digital em que vivemos. Por conta de seus <strong>diferentes estilos, público alvo e linguagens</strong>, é essencial ter ao seu lado uma equipe que entende como essas redes sociais funcionam. <strong>Criar estratégias voltadas para cada tipo de rede social é primordial</strong>. Com um bom conteúdo e planejamento, seu negócio crescerá em público, fãs e vendas. </p>
                 </div>
@@ -121,19 +121,19 @@
             <div class="container _600px">
                 <h3 class="text-center">Quais redes sociais a YouSea trabalha?</h3>
                 <div class="row-4columns">
-                    <div class="wow rotateIn">
+                    <div>
                         <i class="fab fa-facebook-square fa-2x"></i>
                         <h4>Facebook</h4>
                     </div>
-                    <div class="wow rotateIn" data-wow-delay="0.5s">
+                    <div>
                         <i class="fab fa-instagram fa-2x"></i>
                         <h4>Instagram</h4>
                     </div>
-                    <div class="wow rotateIn" data-wow-delay="1s">
+                    <div>
                         <i class="fab fa-linkedin fa-2x"></i>
                         <h4>LinkedIn</h4>
                     </div>
-                    <div class="wow rotateIn" data-wow-delay="1.5s">
+                    <div>
                         <i class="fab fa-twitter-square fa-2x"></i>
                         <h4>Twitter</h4>
                     </div>
@@ -156,7 +156,7 @@
             <div>
                 <h2>Por que você deveria investir em marketing nas redes sociais? </h2>
                 <div  class="container sobre flex flex-align-center space-evenly _960px">
-                    <img src="../img/servicos/redes-sociais/willywhite.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
+                    <img src="../img/servicos/redes-sociais/willywhite.png" class="img-responsive" alt="Imagem sobre YS">
                     <div class="servicos-img-itens">
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
@@ -176,7 +176,7 @@
 
             <div class="container _600px text-center">
                 <h3>Pronto para aumentar o alcance do seu negócio?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
+                <a href="../contato.php?origin=redessociais-gerenciamento" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
             </div>
 
         </section>
@@ -196,7 +196,7 @@
 
             <div class="container">
                 <div class="sobre flex flex-align-center space-evenly _960px">
-                    <img src="../img/servicos/redes-sociais/willy-campanha.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
+                    <img src="../img/servicos/redes-sociais/willy-campanha.png" class="img-responsive" alt="Imagem sobre YS">
                     <div class="servicos-img-itens">
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
@@ -216,7 +216,7 @@
 
             <div class="container _600px text-center">
                 <h3>Preparado para turbinar suas redes sociais?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                <a href="../contato.php?origin=redessociais-campanha" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
             </div>
         </section>
 
@@ -283,8 +283,6 @@
                         </div>
 
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
-                        <div id="overlay"></div>
-                        <div class="loader" id="loader"></div>
                     </form>
 
                 </div>

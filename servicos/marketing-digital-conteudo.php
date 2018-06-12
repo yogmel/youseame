@@ -33,7 +33,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/marketing/marketing-sobre.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/marketing-sobre.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <h2 class="subtitle left-align">E o que é Marketing Digital?</h2>
                     <p>São <strong>ações de comunicação de serviços, produtos ou marcas através das mídias digitais</strong>. A internet mudou a forma de interação dos consumidores com o marketing, e por isso as estratégias também mudaram.</p>
@@ -46,20 +46,20 @@
             <div class="container">
                 <h2>Como fazemos Marketing Digital?</h2>
                 <div class="flex space-between">
-                    <div class="valor-item wow ZoomIn">
+                    <div class="valor-item">
                         <a href="#servicoCriacaoConteudo">
                             <i class="fas fa-paper-plane fa-3x"></i>
                             <h3>Produção de conteúdo</h3>
                             <h4>Inbound Marketing</h4>
                         </a>
                     </div>
-                    <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
+                    <div class="valor-item">
                         <a href="#servicoSEO">
                             <i class="fas fa-crosshairs fa-3x"></i>
                             <h3>SEO e AdWords</h3>
                         </a>
                     </div>
-                    <div class="valor-item wow ZoomIn" data-wow-delay="1s">
+                    <div class="valor-item">
                         <a href="#servicoEstrategiaMarketing">
                             <i class="fas fa-chart-pie fa-3x"></i>
                             <h3>Estratégias de Marketing</h3>
@@ -113,7 +113,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nossa solução funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>
+                <a href="../contato.php?origin=marketing-timeline" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>
             </div>
         </section>
 
@@ -121,7 +121,7 @@
         <section class="servicos-descricao" id="servicoCriacaoConteudo">
             <h2 class="subtitle text-center">Produção de conteúdo</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/marketing/criacao-conteudo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/criacao-conteudo.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <p><em> Seus clientes já estão online e diariamente procuram soluções e produtos em sites de busca e redes sociais! </em> Sabe aquela história que as pessoas devem estar no lugar certo na hora certa? Isso é exatamente o objetivo do <strong>Marketing de Conteúdo</strong>.</p>
                     <p>Assim, a produção de conteúdo visa publicar <strong>informações relevantes e importantes para os seus potenciais clientes</strong>, a fim de atrair, converter e cativar o seu público. Assim sua marca ganha <em>reconhecimento e reputação online</em>. A atração do seu público através de conteúdo relevante é chamado <em>Inbound Marketing</em>.</p>
@@ -159,7 +159,7 @@
                     </div>
                 </div>
                 <div class="container _600px">
-                    <a href="../contato.php" class="btn btn-red btn-central">Quero um Orçamento sem compromisso</a>
+                    <a href="../contato.php?origin=marketing-conteudo" class="btn btn-red btn-central">Quero um Orçamento sem compromisso</a>
                 </div>
             </div>
         </section>
@@ -177,7 +177,7 @@
             </div>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/propagandas.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/propagandas.png" class="img-responsive" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <div>
                         <i class="fas fa-chevron-circle-right fa-2x"></i>
@@ -186,7 +186,7 @@
             </div>
 
             <div class="container _600px text-center">
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
+                <a href="../contato.php?origin=marketing-seoadwords" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
             </div>
         </section>
 
@@ -198,7 +198,7 @@
             <h3 class="text-center _600px">Para quem já está navegando no mundo do marketing digital, mas está a deriva e precisa de novos rumos </h3>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/estrategia-marketing.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/estrategia-marketing.png" class="img-responsive" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <h3>Análise e Estudo de Métricas </h3>
                     <p>Trabalhamos com diversos tipos de <strong>métricas que garantem o sucesso</strong> de nosso planejamento e execução como CTR (Taxa de Cliques), CPC (Custo por Clique), CPA (Custo de Aquisição), ROI (Retorno sobre o Investimento). Você cuida do seu negócio e deixa essa sopa de letrinhas por nossa conta!</p>
@@ -217,7 +217,7 @@
             </div>
 
             <div class="_600px container">
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
+                <a href="../contato.php?origin=marketing-estrategia" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
             </div>
         </section>
 
@@ -229,7 +229,7 @@
             <h3 class="text-center"><em>“Desculpe, mas eu já tenho minha estratégia e preciso apenas de um serviço pontual =(”</em></h3>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/branding-design.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/branding-design.png" class="img-responsive" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <h3>Não tem problema! Está procurando por ferramentas de suporte ao Marketing? </h3>
                     <p>A YouSea também oferece o serviço de criação das seguintes peças:</p>
@@ -274,7 +274,7 @@
             </div>
 
             <div class="_600px container">
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
+                <a href="../contato.php?origin=marketing-design" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
             </div>
         </section>
 
@@ -341,8 +341,6 @@
                         </div>
 
                         <input type="submit" value="Entre em Contato" class="btn btn-red">
-                        <div id="overlay"></div>
-                        <div class="loader" id="loader"></div>
                     </form>
 
                 </div>
@@ -356,6 +354,7 @@
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
+    <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
 
 </body>
 </html>

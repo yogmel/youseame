@@ -1,5 +1,5 @@
 
-function validEmail(email) {
+function validEmail(email) { // see:
   var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
   return re.test(email);
 }
@@ -66,10 +66,11 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
   event.preventDefault();           // we are submitting via xhr below
   var data = getFormData();         // get the values submitted in the form
 
-  /* OPTION: Remove this comment to enable SPAM prevention, see README.md */
+  /* OPTION: Remove this comment to enable SPAM prevention, see README.md
   if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
     return false;
   }
+  */
 
   if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
     var invalidEmail = document.getElementById("email-invalid");
@@ -78,30 +79,23 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
       return false;
     }
   } else {
-    document.getElementById("overlay").style.display = "block";
-    document.getElementById("loader").style.display = "block";
-    document.querySelector("body").style.overflow = "hidden";
-    var url = event.target.action;
+    var url = event.target.action;  //
     var xhr = new XMLHttpRequest();
-    
     xhr.open('POST', url);
     // xhr.withCredentials = true;
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xhr.onreadystatechange = function() {
         console.log( xhr.status, xhr.statusText )
         console.log(xhr.responseText);
-        document.getElementById("loader").style.display = "none"; // hide loader
-        document.getElementById("overlay").style.display = "none";
         document.getElementById("gform").style.display = "none"; // hide form
-        document.querySelector("body").style.overflow = "auto";
         var thankYouMessage = document.getElementById("thankyou_message");
         var titleForm = document.getElementById("contact_title");
         if (thankYouMessage) {
           thankYouMessage.style.display = "block";
           titleForm.style.display = "none";
           setTimeout(function(){
-            window.location.replace("/");
-          }, 8000);
+            window.location.replace("http://yousea.me");
+          }, 2000);
         }
         return;
     };

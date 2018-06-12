@@ -21,24 +21,38 @@ $(function() {
 
 
 // Menu fixo e aparicao de botao 'topo'
-$(document).ready(function(){
+$(document).ready(function(){       
   var scroll_start = 0;
   var startchange = $('header');
   var offset = startchange.offset();
-
-  if ( startchange.length !== 0 ) {
-    $(document).scroll(function() {
-      scroll_start = $(this).scrollTop();
-      if(scroll_start > offset.top) {
-          $('.topbar').addClass('scrolled');
-          $('#btnTopo').addClass('show');
-        } else {
-          $('.topbar').removeClass('scrolled');
-          $('#btnTopo').removeClass('show');
-        }
-    });
-  }
+  $(document).scroll(function() { 
+     scroll_start = $(this).scrollTop();
+     if(scroll_start > offset.top) {
+         $('.topbar').addClass('scrolled');
+         $('#btnTopo').addClass('show');
+      } else {
+        $('.topbar').removeClass('scrolled');
+        $('#btnTopo').removeClass('show');
+      }
+  });
 });
+
+
+// Top button
+// $(document).ready(function(){       
+//   var scroll_start = 0;
+//   var startchange = $('header');
+//   var offset = startchange.offset();
+//   $(document).scroll(function() { 
+//      scroll_start = $(this).scrollTop();
+//      if(scroll_start > offset.top) {
+//          $('.topbar').addClass('scrolled');
+//       } else {
+//         $('.topbar').removeClass('scrolled');
+//       }
+//   });
+// });
+
 
 // Smooth scroll
 $('a[href*="#"]')
@@ -156,23 +170,5 @@ if (typeof tns === "function") {
     speed: 1000,
   });
 
-  //Slider Contato Depoimento
-    // Slider de Portfolio
-    var slider = tns({
-      container: '#slider-contato',
-      items: 1,
-      autoplayTimeout: 2500,
-      autoplay: true,
-      mouseDrag: true,
-      nav: false,
-      controls: false,
-      autoplayButtonOutput: false,
-      autoplayHoverPause: true,
-      controlsContainer: '#customize-controls'
-    });
-
 }
 
-(function() {
-  new WOW().init();
-})();
