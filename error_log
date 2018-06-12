@@ -1,0 +1,6 @@
+[29-May-2018 11:15:31 America/Chicago] PHP Warning:  include(assets/js/scripts.php): failed to open stream: No such file or directory in /home/youse263/public_html/index.php on line 241
+[29-May-2018 11:15:31 America/Chicago] PHP Warning:  include(assets/js/scripts.php): failed to open stream: No such file or directory in /home/youse263/public_html/index.php on line 241
+[29-May-2018 11:15:31 America/Chicago] PHP Warning:  include(): Failed opening 'assets/js/scripts.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/youse263/public_html/index.php on line 241
+[29-May-2018 11:15:41 America/Chicago] PHP Warning:  include(assets/js/scripts.php): failed to open stream: No such file or directory in /home/youse263/public_html/index.php on line 241
+[29-May-2018 11:15:41 America/Chicago] PHP Warning:  include(assets/js/scripts.php): failed to open stream: No such file or directory in /home/youse263/public_html/index.php on line 241
+[29-May-2018 11:15:41 America/Chicago] PHP Warning:  include(): Failed opening 'assets/js/scripts.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/youse263/public_html/index.php on line 241
