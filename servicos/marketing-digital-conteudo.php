@@ -8,8 +8,6 @@
     include '../gtag.php';
     include 'styles.php';
     ?>
-    <link rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
     <title>Marketing Digital e de Conteúdo | YouSea - Marketing Digital</title>
 </head>
@@ -179,7 +177,7 @@
             </div>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/propagandas.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/propagandas.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <div>
                         <i class="fas fa-chevron-circle-right fa-2x"></i>
@@ -200,7 +198,7 @@
             <h3 class="text-center _600px">Para quem já está navegando no mundo do marketing digital, mas está a deriva e precisa de novos rumos </h3>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/estrategia-marketing.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/estrategia-marketing.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <h3>Análise e Estudo de Métricas </h3>
                     <p>Trabalhamos com diversos tipos de <strong>métricas que garantem o sucesso</strong> de nosso planejamento e execução como CTR (Taxa de Cliques), CPC (Custo por Clique), CPA (Custo de Aquisição), ROI (Retorno sobre o Investimento). Você cuida do seu negócio e deixa essa sopa de letrinhas por nossa conta!</p>
@@ -231,7 +229,7 @@
             <h3 class="text-center"><em>“Desculpe, mas eu já tenho minha estratégia e preciso apenas de um serviço pontual =(”</em></h3>
 
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/marketing/branding-design.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/marketing/branding-design.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <h3>Não tem problema! Está procurando por ferramentas de suporte ao Marketing? </h3>
                     <p>A YouSea também oferece o serviço de criação das seguintes peças:</p>
@@ -354,13 +352,10 @@
 
     </main>
 
-        <script src="../assets/js/wow.min.js" type="text/javascript"></script>
     <?php
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
-    <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
-
 
 </body>
 </html>

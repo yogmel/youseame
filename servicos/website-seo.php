@@ -33,7 +33,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/webdesign-seo.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/webdesign-seo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div>
                     <h2 class="subtitle left-align">O que é Web Design e SEO?</h2>
                     <p>É a <strong>combinação perfeita entre a beleza e a funcionalidade de uma ferramenta online</strong>. O web design une toda a expertise do design – composição e organização da informação, elementos gráficos, mistura das cores, ilustrações e branding – com a funcionalidade tecnológica da programação e de tudo aquilo que você vê e não vê em um website.</p>
@@ -45,19 +45,19 @@
             <div class="container">
                 <h2>Como construímos o Web Design?</h2>
                 <div class="flex space-between">
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn">
                         <a href="#servicoWebsite">
                             <i class="fas fa-desktop fa-3x"></i>
                             <h3>Website e Blog</h3>
                         </a>
                     </div>
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
                         <a href="#servicoBlog">
                             <i class="fas fa-newspaper fa-3x"></i>
                             <h3>Landing Pages</h3>
                         </a>
                     </div>
-                    <div class="valor-item">
+                    <div class="valor-item wow ZoomIn" data-wow-delay="1s">
                         <a href="#servicoOtimizacao">
                             <i class="fas fa-chart-line fa-3x"></i>
                             <h3>Otimização e Responsividade</h3>
@@ -88,9 +88,9 @@
                   </div>
 
                   <div class="cd-timeline__content js-cd-content">
-                      <h3>Análise e Aprimoramento</h3>
-                      <p>Nossos melhores projetos são construídos com base em crescimento consistente e duradouro.</p>
-                      <p><strong>Utilizamos todos os dados obtidos para desenvolver novas estratégias</strong> e soluções exclusivas para seu negócio. Aprendemos com nossos erros e acertos, garantindo novas estratégias para o lançamento de produtos e <strong>serviços mais efetivos</strong>.</p>
+                        <h3>Projeto e Execução</h3>
+                        <p>Planejamos e implementamos um projeto com as soluções de marketing digital e de conteúdo escolhidas. <strong>Medimos os resultados, traçamos metas</strong> e antecipamos as demais demandas.</p>
+                        <p>A <strong>transparência</strong> no processo e os feedbacks constantes do cliente são uma etapa essencial para o sucesso do projeto.</p>
                     </div>
                 </div>
                 <div class="cd-timeline__block js-cd-block">
@@ -119,7 +119,7 @@
         <section class="servicos-descricao" id="servicoWebsite">
             <h2 class="subtitle text-center">Website e Blog</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/website-blog.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/website-blog.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div>
                     <p>Ter um <strong>site de qualidade</strong> ou um espaço adequado para compartilhar suas ideias <strong>deixou de ser um diferencial e se tornou essencial para qualquer negócio.</strong></p>
                     <p>O que a maioria das pessoas não sabe é que um site e um blog não precisam apenas estar online, mas também serem funcionais, organizados e otimizados. Dessa forma, seus potenciais clientes terão a melhor experiencia possível ao entrarem em contato com a sua marca.</p>
@@ -151,7 +151,7 @@
             </div>
 
             <div class="container sobre portfolio-cliente flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/5thandpine.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/5thandpine.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
                 <div>
                     <h3><span class="light">[Portfolio]</span> 5th and Pine Website</h3>
                     <span><a href="http://5thandpine.com/" target="_blank"><em>Website</em></a> | <a href="#"><em>Mock up Interativo</em></a></span>
@@ -192,9 +192,9 @@
 
             <div class="container sobre portfolio-cliente flex flex-align-center space-evenly">
                 <div class="landing-page">
-                    <div> <img src="../img/servicos/webdesign/lp1.jpg" alt=""> </div>
-                    <div> <img src="../img/servicos/webdesign/lp2.jpg" alt=""> </div>
-                    <div> <img src="../img/servicos/webdesign/lp3.jpg" alt=""> </div>
+                    <div> <img src="../img/servicos/webdesign/lp1.jpg" class="wow flipInX" alt=""> </div>
+                    <div> <img src="../img/servicos/webdesign/lp2.jpg" class="wow flipInX" alt=""> </div>
+                    <div> <img src="../img/servicos/webdesign/lp3.jpg" class="wow flipInX" alt=""> </div>
                 </div>
                 <div>
                     <h3><span class="light">[Portfolio]</span> Impulse - Landing Pages</h3>
@@ -217,7 +217,7 @@
         <section class="servicos-descricao" id="servicoOtimizacao">
             <h2 class="subtitle text-center">Otimização e Responsividade</h2>
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/webdesign/seo.png" class="img-responsive" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/seo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
                 <div class="servicos-img-itens">
                     <p>Desenhamos seu endereço online em alto padrão de qualidade e programação, como HTML e CSS. Uma página <strong>rápida, eficiente e otimizada</strong> é ideal para seu usuário usufruir de todas as informações do seu site. </p>
 
@@ -333,7 +333,6 @@
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
-    <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
 
 </body>
 </html>
