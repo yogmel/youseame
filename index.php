@@ -10,8 +10,8 @@
     ?>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/tiny-slider.css">
-    <!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.helper.ie8.js"></script><![endif]-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
+    <!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.helper.ie8.js" async></script><![endif]-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js" async></script>
 
     <title>YouSea - Marketing Digital</title>
 </head>
@@ -35,7 +35,7 @@
 
         <section class="sobre bg-red" id="homeSobre">
             <div class="container flex flex-align-center space-around">
-                <img src="img/home-sobre.png" class="img-responsive wow bounceInLeft" alt="Ilustração de um computador com gráficos coloridos">
+                <img src="img/home-sobre.png" class="img-responsive" alt="Imagem sobre YS">
                 <div>
                     <p>A <strong>YouSea</strong> é uma empresa que compreende suas necessidades, guiando e navegando junto com você pelos mares do <strong>Marketing Digital</strong>. Oferecemos soluções customizadas para <em>autônomos, pequenas e médias empresas</em>, e todos aqueles que sonham <strong>grande.</strong></p>
                     <p> Nosso objetivo principal é expandir sua marca e potencializar seu negócio, construindo <strong>serviços poderosos que gerem resultados relevantes!</strong></p>
@@ -50,15 +50,15 @@
                 <h3 class="text-center _600px"><strong>Nós temos um mapa do tesouro para você chegar lá:</strong></h3>
                 <div class="flex space-between">
                     <div class="valor-item">
-                        <img src="img/valor01.png" class="img-responsive wow bounceIn" alt="Valor 1">
+                        <img src="img/valor01.png" class="img-responsive" alt="Valor 1">
                         <p>Somos 100% focados na sua história e dificuldades. Realizamos um estudo completo de mercado, definindo <strong>estratégias personalizadas</strong> para você.</p>
                     </div>
                     <div class="valor-item">
-                        <img src="img/valor02.png" class="img-responsive wow bounceIn" alt="Valor 2" data-wow-delay="0.5s">
+                        <img src="img/valor02.png" class="img-responsive" alt="Valor 2">
                         <p>Transparência é um dos nossos maiores pilares. A proximidade e acessibilidade do processo visa te dar <strong>clareza</strong> de onde estamos navegando.</p>
                     </div>
                     <div class="valor-item">
-                        <img src="img/valor03.png" class="img-responsive wow bounceIn" alt="Valor 3" data-wow-delay="1s">
+                        <img src="img/valor03.png" class="img-responsive" alt="Valor 3">
                         <p>Otimizar, testar e inovar é nossa fonte de aprendizado. Personalizamos para o seu negócio as melhores <strong>tendências do mercado digital</strong>.</p>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                     <div>
                         <h3>Marketing Digital e de Conteúdo</h3>
                         <p>As palavras têm poder e nós sabemos disso! Cative seus clientes através de conteúdo relevante, convertendo leitores em clientes. Parece complicado? Nós mapeamos os melhores caminhos para você.</p>
-                        <div class="servico-produtos wow fadeInLeft">
+                        <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-paper-plane fa-2x"></i>
                                 <p>Produção de conteúdo (Inbound Marketing)</p>
@@ -121,7 +121,7 @@
                     <div>
                         <h3>Web Design e SEO</h3>
                         <p>Assim como dominar uma segunda língua, ter um site moderno, otimizado e eficiente deixou de ser um diferencial e se tornou fundamental. Se você não tem OU quer aumentar o impacto do seu negócio, nós sabemos como!</p>
-                        <div class="servico-produtos wow fadeInRight">
+                        <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-desktop fa-2x"></i>
                                 <p>Website e Blog</p>
@@ -145,7 +145,7 @@
                     <div>
                         <h3>Redes Sociais (Marketing e Gerenciamento)</h3>
                         <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. Enquanto você foca no que sabe fazer de melhor, nós trabalhamos para que a sua presença digital seja completa.</p>
-                        <div class="servico-produtos wow fadeInLeft">
+                        <div class="servico-produtos">
                             <div class="flex flex-align-center">
                                 <i class="fas fa-thumbs-up fa-2x"></i>
                                 <p>Gerenciamento e Interatividade nas mídias sociais</p>
@@ -169,33 +169,33 @@
                 <h4>A YouSea oferece todas as ferramentas para você entrar de vez no mundo digital</h4>
                 <div class="solucoes-itens container flex space-between">
                     <div>
-                        <img src="img/solucoes/01.png" class="wow bounceIn" alt="Solução 1">
+                        <img src="img/solucoes/01.png" alt="Solução 1">
                         <p>Aumente a <strong>visibilidade</strong> da sua marca. Seja visto por quem importa!</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/02.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Solução 2">
+                        <img src="img/solucoes/02.png" alt="Solução 2">
                         <p>Consiga mais clientes e amplie suas vendas e <strong>resultados</strong></p>
                     </div>
                     <div>
-                        <img src="img/solucoes/03.png" class="wow bounceIn" data-wow-delay="1s" alt="Solução 3">
+                        <img src="img/solucoes/03.png" alt="Solução 3">
                         <p>Aumente o <strong>engajamento</strong> e faça seu público trabalhar pela sua marca</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/04.png" class="wow bounceIn" alt="Solução 4">
+                        <img src="img/solucoes/04.png" alt="Solução 4">
                         <p>Entenda o <strong>perfil</strong> dos seus clientes e atenda suas necessidades</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/05.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Solução 5">
+                        <img src="img/solucoes/05.png" alt="Solução 5">
                         <p>Tenha mais <strong>autoridade</strong> no seu segmento e seja uma referência</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/06.png" class="wow bounceIn" data-wow-delay="1s" alt="Solução 6">
+                        <img src="img/solucoes/06.png" alt="Solução 6">
                         <p><strong>O céu é o limite</strong> e nós planejamos chegar mais longe com você!</p>
                     </div>
                 </div>
                 <div class="solucoes-chamada container">
                     <h4>Alcance resultados incríveis e descubra a melhor estratégia para seu negócio!</h4>
-                    <a href="contato.php" class="solucoes-cta btn btn-red">Entre em Contato!</a>
+                    <a href="contato.php?origin=home-solucoes" class="solucoes-cta btn btn-red">Entre em Contato!</a>
                 </div>
             </div>
         </section>
@@ -231,11 +231,11 @@
         <section class="home-cta bg-light">
             <h2 class="subtitle">Inspirado a viver no mundo digital? </h2>
             <p>Que tal navegarmos juntos para alcançar seus objetivos?</p>
-            <a href="contato.php" class="btn btn-red">Solicite um Orçamento Grátis</a>
+            <a href="contato.php?origin=home-inspirado" class="btn btn-red">Solicite um Orçamento Grátis</a>
         </section>
 
     </main>
-    
+
     <?php
     include 'assets/parts/footer.php';
     include 'assets/js/scripts.php';

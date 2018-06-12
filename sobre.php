@@ -7,7 +7,7 @@
     <?php
     include 'gtag.php';
     include 'assets/css/styles.php';
-    ?>
+    ?>   
 
     <title>Sobre | YouSea - Marketing Digital</title>
 </head>
@@ -42,15 +42,15 @@
                     <div class="sobre-historia-valores">
                         <h2 class="subtitle">Nossos Valores</h2>
                         <div>
-                            <img src="img/sobre/valor002.png" class="img-responsive wow ZoomIn" alt="Valor 1">
+                            <img src="img/sobre/valor002.png" class="img-responsive" alt="Valor 1">
                             <h4><strong>Ser transparente</strong> e focado no cliente</h4>
                         </div>
                         <div>
-                            <img src="img/sobre/valor001.png" class="img-responsive wow ZoomIn" data-wow-delay="0.5s" alt="Valor 2">
+                            <img src="img/sobre/valor001.png" class="img-responsive" alt="Valor 2">
                             <h4>Gerar <strong> experiências positivas</strong></h4>
                         </div>
                         <div>
-                            <img src="img/sobre/valor003.png" class="img-responsive wow ZoomIn" data-wow-delay="1s" alt="Valor 3">
+                            <img src="img/sobre/valor003.png" class="img-responsive" alt="Valor 3">
                             <h4><strong>Inovar</strong>, adaptar e simplificar</h4>
                         </div>
                     </div>
@@ -106,8 +106,8 @@
                 </div>
 
                 <div class="time-certificacoes">
-                    <img src="img/sobre/certification.png" class="wow ZoomIn" alt="Certificacao 1">
-                    <img src="img/sobre/certification.png" class="wow ZoomIn" alt="Certificacao 1">
+                    <img src="img/sobre/certification.png" alt="Certificacao 1">
+                    <img src="img/sobre/certification.png" alt="Certificacao 1">
                 </div>
 
 

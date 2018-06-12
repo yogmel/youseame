@@ -30,9 +30,6 @@
                         <h2 class="subtitle">Obrigada!</h2>
                         <h3>Em breve você receberá uma resposta de nossos especialistas!</h3>
                         <p>Aguarde enquanto você é redirecionado para a nossa página inicial</p>
-                        <div class="box">
-                            <div class="loader4"></div>
-                        </div>
                     </div>
 
                     <form action="https://script.google.com/macros/s/AKfycbxUHPiT7cRN3hE96mmQN-zEPf8sTW_q54tKa9fB/exec" method="POST" id="gform">
@@ -80,9 +77,7 @@
                             <input type="text" name="origem" value="Solicite Orçamento" style="display:none;" >
                         </div>
 
-                        <input type="submit" value="Solicitar Orçamento" class="btn btn-red">
-                        <div id="overlay"></div>
-                        <div class="loader" id="loader"></div>
+                        <input type="submit" value="Entre em Contato" class="btn btn-red">
                     </form>
                 </div>
 
