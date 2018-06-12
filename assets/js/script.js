@@ -156,7 +156,23 @@ if (typeof tns === "function") {
     speed: 1000,
   });
 
+  //Slider Contato Depoimento
+    // Slider de Portfolio
+    var slider = tns({
+      container: '#slider-contato',
+      items: 1,
+      autoplayTimeout: 2500,
+      autoplay: true,
+      mouseDrag: true,
+      nav: false,
+      controls: false,
+      autoplayButtonOutput: false,
+      autoplayHoverPause: true,
+      controlsContainer: '#customize-controls'
+    });
+
 }
+
 (function() {
   new WOW().init();
 })();

@@ -8,6 +8,9 @@
         include 'gtag.php';
         include 'assets/css/styles.php';
     ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/tiny-slider.css">
+    <!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.helper.ie8.js"></script><![endif]-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
 
     <link rel="shortcut icon" href="assets/favicon.ico?v=2" type="image/x-icon">
     <link rel="icon" href="assets/favicon.ico?v=2" type="image/x-icon">
@@ -138,14 +141,36 @@
             <div class="container servicos-depoimentos">
                 <div class="citacao _960px">
                     <h3>Um Case de Sucesso</h3>
-                    <blockquote>
-                      <p>A YouSea tem uma equipe extremamente educada e carismática, dando atenção ao cliente desde o primeiro contato. Elas seguem uma metodologia para garantir a maior qualidade e acerto para com os objetivos do cliente! O processo e a metodologia foi um dos pontos fortes ao contratar o serviço!</p>
-                      <p>A equipe demonstra conhecimento e habilidade para executar as atividades, não necessitando muito envolvimento do cliente no andamento do processo, o que para mim significa plena confiança nesse trabalho. A YouSea demonstra o respeito pelos princípio éticos da integridade e competência, valores que dificilmente você encontra no mercado!</p>
-                      <p>Eu recomendo os serviços e soluções para outros pessoas e empresas!</p>
-                    </blockquote>
-                    <div class="citacao-fonte">
-                        <img src="../img/contato/seigo-histec.png" alt="Foto do Cliente - Depoimento">
-                        <p>- Guilherme Seigo Matsumoto, <br> Histec Comercial</p>
+                    <div id="slider-contato">
+                        <div>
+                            <blockquote>
+                            <p>A YouSea tem uma equipe extremamente educada e carismática, dando atenção ao cliente desde o primeiro contato. Elas seguem uma metodologia para garantir a maior qualidade e acerto para com os objetivos do cliente! O processo e a metodologia foi um dos pontos fortes ao contratar o serviço!</p>
+                            <p>A equipe demonstra conhecimento e habilidade para executar as atividades, não necessitando muito envolvimento do cliente no andamento do processo, o que para mim significa plena confiança nesse trabalho. A YouSea demonstra o respeito pelos princípio éticos da integridade e competência, valores que dificilmente você encontra no mercado!</p>
+                            <p>Eu recomendo os serviços e soluções para outros pessoas e empresas!</p>
+                            </blockquote>
+                            <div class="citacao-fonte">
+                                <img src="../img/contato/seigo-histec.png" alt="Foto do Cliente - Depoimento">
+                                <p>- Guilherme Seigo Matsumoto, <br> Histec Comercial</p>
+                            </div>
+                        </div>
+                        <div>
+                            <blockquote>
+                            <p>Trabalhamos com a equipe da Yousea por quase 2 anos e sempre tivemos um alto nível de qualidade e comprometimento. A equipe rapidamente entendeu a nossa identidade e nossa forma de trabalhar e com isso as entregas ficaram cada vez mais rápidas e assertivas. Tivemos ótimas experiencias com produção de páginas, banners e campanhas de Marketing Digital. Recomendo muito esse time!</p>
+                            </blockquote>
+                            <div class="citacao-fonte">
+                                <img src="../img/contato/felipe-batalha-impulse.png" alt="Foto do Cliente - Depoimento">
+                                <p>- Felipe Batalha, <br> Business Manager da Impulse</p>
+                            </div>
+                        </div>
+                        <div>
+                            <blockquote>
+                            <p>A YouSea ajudou a desenvolver a identidade de marca da minha nova empresa de consultoria. A Mellina (Webdesigner da YouSea) facilitou todo o processo, me orientou onde precisava e também escutou atentamente tudo o que eu queria. Graças a ela, tenho um novo site e incrível, cartões de visita e um modelo de powerpoint que me ajuda visualmente a colocar o melhor do meu negócio diante de meus clientes.</p>
+                            </blockquote>
+                            <div class="citacao-fonte">
+                                <img src="../img/contato/colby-5thandpine.png" alt="Foto do Cliente - Depoimento">
+                                <p>- Colby Jones, <br> 5th and Pine</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
