@@ -172,27 +172,27 @@
                 <h4>A YouSea oferece todas as ferramentas para você entrar de vez no mundo digital</h4>
                 <div class="solucoes-itens container flex space-between">
                     <div>
-                        <img src="img/solucoes/01.png" class="wow bounceIn" alt="Ícone de um olho, estilizado em azul e vermelho">
+                        <img src="img/solucoes/01solucao_visibilidade.png" class="wow bounceIn" alt="Ícone de um olho, estilizado em azul e vermelho">
                         <p>Aumente a <strong>visibilidade</strong> da sua marca. Seja visto por quem importa!</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/02.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Ícone de um gráfico em barras e uma curva em vermelho de crescimento exponencial">
+                        <img src="img/solucoes/02solucao_performance.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Ícone de um gráfico em barras e uma curva em vermelho de crescimento exponencial">
                         <p>Consiga mais clientes e amplie suas vendas e <strong>resultados</strong></p>
                     </div>
                     <div>
-                        <img src="img/solucoes/03.png" class="wow bounceIn" data-wow-delay="1s" alt="Ícone de dois balões de fala">
+                        <img src="img/solucoes/03solucao_engajamento.png" class="wow bounceIn" data-wow-delay="1s" alt="Ícone de dois balões de fala">
                         <p>Aumente o <strong>engajamento</strong> e faça seu público trabalhar pela sua marca</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/04.png" class="wow bounceIn" alt="Ícone de três pessoas felizes conectadas por linhas">
+                        <img src="img/solucoes/04solucao_conexao.png" class="wow bounceIn" alt="Ícone de três pessoas felizes conectadas por linhas">
                         <p>Entenda o <strong>perfil</strong> dos seus clientes e atenda suas necessidades</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/05.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Ícone de um selo de qualidade com uma estrela no centro">
+                        <img src="img/solucoes/05solucao_autoridade.png" class="wow bounceIn" data-wow-delay="0.5s" alt="Ícone de um selo de qualidade com uma estrela no centro">
                         <p>Tenha mais <strong>autoridade</strong> no seu segmento e seja uma referência</p>
                     </div>
                     <div>
-                        <img src="img/solucoes/06.png" class="wow bounceIn" data-wow-delay="1s" alt="Ícone de um foguete azul e vermelho">
+                        <img src="img/solucoes/06solucao_mais.png" class="wow bounceIn" data-wow-delay="1s" alt="Ícone de um foguete azul e vermelho">
                         <p><strong>O céu é o limite</strong> e nós planejamos chegar mais longe com você!</p>
                     </div>
                 </div>

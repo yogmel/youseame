@@ -18,7 +18,7 @@
                         </ul>
                     </li>
                     <li><a href="sobre.php">Sobre</a></li>
-                    <li><a href="blog">Blog</a></li>
+                    <!-- <li><a href="blog">Blog</a></li> -->
                     <li><a href="contato.php">Contato</a></li>
                     <li><a href="solicite-orcamento.php" id="menu-cta" class="navbar-cta btn btn-red">Solicite um Orçamento Grátis</a></li>
                 </ul>
