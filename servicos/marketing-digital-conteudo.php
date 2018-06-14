@@ -257,12 +257,12 @@
 
             <div>
             <div class="my-slider">
-                <div><img src="../img/servicos/marketing/slider/01.png" alt="Imagem de banners feitos pela YouSea"></div>
-                <div><img src="../img/servicos/marketing/slider/02.png" alt="Imagem de cartões de visita feitos pela YouSea"></div>
-                <div><img src="../img/servicos/marketing/slider/03.png" alt="Imagem de anúncios feitos pela YouSea"></div>
-                <div><img src="../img/servicos/marketing/slider/04.png" alt="Imagem de banners feitos pela YouSea"></div>
-                <div><img src="../img/servicos/marketing/slider/05.png" alt="Imagem de mala direita pela YouSea"></div>
-                <div><img src="../img/servicos/marketing/slider/06.png" alt="Imagem de mock up feito pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/01slide_cartao-visita-5thandpine.png" alt="Imagem de banners feitos pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/02slide_ebook-impulse.png" alt="Imagem de cartões de visita feitos pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/03slide_logo-archview3d.png" alt="Imagem de anúncios feitos pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/04slide_anuncio-histec-comercial.png" alt="Imagem de banners feitos pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/05slide_banner-ads-digital-summit.png" alt="Imagem de mala direita pela YouSea"></div>
+                <div><img src="../img/servicos/marketing/slider/06slide_mala-direta-dorina-nowill.png" alt="Imagem de mock up feito pela YouSea"></div>
             </div>
             <ul class="controls flex space-around _600px" id="customize-controls">
                 <li class="prev">
