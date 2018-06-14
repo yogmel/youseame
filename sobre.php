@@ -18,6 +18,7 @@
     ?>
 
     <header class="pagina-header" style="background-image: url(../img/sobre/banner-sobre.png)" id="sobreHeader">
+    <img src="img/banner-inicial.png" class="sr-only" alt="Banner de fundo: foto com coloração azulada. No maior plano, duas mulheres conversando, e uma apontando a caneta para o computador. Ao fundo, esfumaçado, um escritório e uma pessoa passando com papéis na mão">
         <div class="container">
             <div class="pagina-titulo">
                 <h4>Sobre a YouSea</h4>
@@ -42,15 +43,15 @@
                     <div class="sobre-historia-valores">
                         <h2 class="subtitle">Nossos Valores</h2>
                         <div>
-                            <img src="img/sobre/valor002.png" class="img-responsive wow ZoomIn" alt="Valor 1">
+                            <img src="img/sobre/01valor_lupa-transparencia.png" class="img-responsive wow ZoomIn" alt="icone de uma lupa">
                             <h4><strong>Ser transparente</strong> e focado no cliente</h4>
                         </div>
                         <div>
-                            <img src="img/sobre/valor001.png" class="img-responsive wow ZoomIn" data-wow-delay="0.5s" alt="Valor 2">
+                            <img src="img/sobre/02valor_troca-experiencias.png" class="img-responsive wow ZoomIn" data-wow-delay="0.5s" alt="icone de um balão com flechas em direção oposta, representando um diálogo">
                             <h4>Gerar <strong> experiências positivas</strong></h4>
                         </div>
                         <div>
-                            <img src="img/sobre/valor003.png" class="img-responsive wow ZoomIn" data-wow-delay="1s" alt="Valor 3">
+                            <img src="img/sobre/03valor_lampada-inocavao.png" class="img-responsive wow ZoomIn" data-wow-delay="1s" alt="icone de uma lâmpada">
                             <h4><strong>Inovar</strong>, adaptar e simplificar</h4>
                         </div>
                     </div>
@@ -83,24 +84,24 @@
                 <p class="text-center">O nosso time busca novas maneiras de fazer marketing digital todos os dias. Diversidade de conhecimentos faz parte da nossa essênciua. Agregamos expertises fora do arroz-feijão da área de comunicação sem deixar de colecionar certificações que são referência na área de Marketing Digital.</p>
                 <div class="flex time-descricao space-around">
                     <div class="bg-rounded-white">
-                        <img src="img/sobre/bru.png" class="img-responsive" alt="Foto de Bruna G, redatora">
+                        <img src="img/sobre/bruna-gil-redatora.png" class="img-responsive" alt="Foto de Bruna Gil, redatora da YouSea">
                         <h3>Bruna Gil - Redatora</h3>
                         <p>Formada em relações internacionais e estudante de gestão de negócios, é cofundadora da YouSea e atua como responsável de marketing de conteúdo e soluções para redes sociais. É apaixonada por criação de conteúdo e empreendedorismo, e busca melhorar o mundo através da escrita. </p>
                         <div class="sobre-redes-sociais">
-                            <a href="https://www.linkedin.com/in/brunaggil/" target="_blank"> <i class="fab fa-linkedin fa-3x"></i> </a>
-                            <a href="https://medium.com/@Bruna.Gil" target="_blank"> <i class="fab fa-medium fa-3x"></i> </a>
-                            <a href="https://brunagil.contently.com/" target="_blank"> <i class="fas fa-copyright fa-3x"></i> </a>
+                            <a href="https://www.linkedin.com/in/brunaggil/" target="_blank"> <i title="LinkedIn da Bruna" class="fab fa-linkedin fa-3x"></i> </a>
+                            <a href="https://medium.com/@Bruna.Gil" target="_blank"> <i title="Medium da Bruna" class="fab fa-medium fa-3x"></i> </a>
+                            <a href="https://brunagil.contently.com/" target="_blank"> <i title="Contently da Bruna" class="fas fa-copyright fa-3x"></i> </a>
                         </div>
                     </div>
 
                     <div class="bg-rounded-white">
-                        <img src="img/sobre/mell.png" class="img-responsive" alt="Foto de Mellina Y, designer">
+                        <img src="img/sobre/mellina-yonashiro-designer-developer.png" class="img-responsive" alt="Foto de Mellina Y, designer">
                         <h3>Mellina Yonashiro - Designer</h3>
                         <p>Designer com mais de três anos de experiência na área de criação, programação e web design, é cofundadora da YouSea e idealizadora das soluções de Web Design e SEO. Apaixonada por jogos e tecnologia, é engajada com projetos de empoderamento e presença feminina na tecnologia, atuando como professora <a href="http://www.reprograma.com.br" target="_blank">Reprograma</a>. </p>
                         <div class="sobre-redes-sociais">
-                            <a href="https://github.com/yogmel" target="_blank"> <i class="fab fa-github-square fa-3x"></i> </a>
-                            <a href="https://www.behance.net/yogmel" target="_blank"> <i class="fab fa-behance-square fa-3x"></i> </a>
-                            <a href="https://www.linkedin.com/in/yogmel/" target="_blank"> <i class="fab fa-linkedin fa-3x"></i> </a>
+                            <a href="https://www.linkedin.com/in/yogmel/" target="_blank"> <i title="LinkedIn da Mellina" class="fab fa-linkedin fa-3x"></i> </a>
+                            <a href="https://github.com/yogmel" target="_blank"> <i title="Github da Mellina" class="fab fa-github-square fa-3x"></i> </a>
+                            <a href="https://www.behance.net/yogmel" target="_blank"> <i title="Behance da Mellina" class="fab fa-behance-square fa-3x"></i> </a>
                         </div>
                     </div>
                 </div>

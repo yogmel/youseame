@@ -93,42 +93,42 @@
                 <div class="contato-redes">
                     <img src="img/logo.png" class="img-responsive logo" alt="Logo YouSea">
                     <div class="flex flex-align-center">
-                        <img src="img/contato/marketing.png" class="img-responsive" alt="Valor 1">
+                        <img src="img/contato/marketing-digital-conteudo.png" class="img-responsive" alt="ilustração de um gráfico colorido com uma curva de crescimento exponencial">
                         <h4>Marketing Digital e de Conteúdo</h4>
                     </div>
                     <div class="flex flex-align-center">
-                        <img src="img/contato/webdesign.png" class="img-responsive" alt="Valor 2">
+                        <img src="img/contato/webdesign-seo.png" class="img-responsive" alt="ilustração de um site visto por uma tela de computador e de um celular">
                         <h4>Web Design e SEO</h4>
                     </div>
                     <div class="flex flex-align-center">
-                        <img src="img/contato/redes-sociais.png" class="img-responsive" alt="Valor 3">
+                        <img src="img/contato/redes-sociais.png" class="img-responsive" alt="icone de dois balões de fala coloridos, mostrando a comunicação entre as pessoas">
                         <h4>Redes Sociais</h4>
                     </div>
 
                     <hr class="blue">
 
-                   <div class="contato-redes-sociais">
+                    <div class="contato-redes-sociais">
                         <div class="flex">
                             <a href="mailto:contato@yousea.me" target="_blank">
-                                <i class="fas fa-envelope fa-lg"></i>
+                                <i title="Email" class="fas fa-envelope fa-lg"></i>
                                 <span>   contato@yousea.me</span>
                             </a>
                         </div>
                         <div class="flex">
                             <a href="https://www.facebook.com/yousea.marketing/" target="_blank">
-                                <i class="fab fa-facebook-square fa-lg"></i>
+                                <i title="Facebook" class="fab fa-facebook-square fa-lg"></i>
                                 <span>  /yousea.marketing</span>
                             </a>
                         </div>
                         <div class="flex">
                             <a href="https://www.linkedin.com/company/yousea/" target="_blank">
-                                <i class="fab fa-linkedin fa-lg"></i>
+                                <i title="LinkedIn" class="fab fa-linkedin fa-lg"></i>
                                 <span>  /yousea</span>
                             </a>
                         </div>
                         <div class="flex">
                             <a href="https://www.instagram.com/yousea.me/" target="_blank">
-                                <i class="fab fa-instagram fa-lg"></i>
+                                <i title="Instagram" class="fab fa-instagram fa-lg"></i>
                                 <span>  /yousea.me</span>
                             </a>
                         </div>
@@ -149,7 +149,7 @@
                             <p>Eu recomendo os serviços e soluções para outros pessoas e empresas!</p>
                             </blockquote>
                             <div class="citacao-fonte">
-                                <img src="../img/contato/seigo-histec.png" alt="Foto do Cliente - Depoimento">
+                                <img src="../img/contato/guilherme-matsumoto-seigo-histec-comercial.png" alt="Foto de Guilherme da Histec junto ao seu depoimento sobre a YouSea">
                                 <p>- Guilherme Seigo Matsumoto, <br> Histec Comercial</p>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                             <p>Trabalhamos com a equipe da Yousea por quase 2 anos e sempre tivemos um alto nível de qualidade e comprometimento. A equipe rapidamente entendeu a nossa identidade e nossa forma de trabalhar e com isso as entregas ficaram cada vez mais rápidas e assertivas. Tivemos ótimas experiencias com produção de páginas, banners e campanhas de Marketing Digital. Recomendo muito esse time!</p>
                             </blockquote>
                             <div class="citacao-fonte">
-                                <img src="../img/contato/felipe-batalha-impulse.png" alt="Foto do Cliente - Depoimento">
+                                <img src="../img/contato/felipe-batalha-impulse.png" alt="Foto de Felipe da Impulse junto ao seu depoimento sobre a YouSea">
                                 <p>- Felipe Batalha, <br> Business Manager da Impulse</p>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                             <p>A YouSea ajudou a desenvolver a identidade de marca da minha nova empresa de consultoria. A Mellina (Webdesigner da YouSea) facilitou todo o processo, me orientou onde precisava e também escutou atentamente tudo o que eu queria. Graças a ela, tenho um novo site e incrível, cartões de visita e um modelo de powerpoint que me ajuda visualmente a colocar o melhor do meu negócio diante de meus clientes.</p>
                             </blockquote>
                             <div class="citacao-fonte">
-                                <img src="../img/contato/colby-5thandpine.png" alt="Foto do Cliente - Depoimento">
+                                <img src="../img/contato/colby-jones-5thandpine.png" alt="Foto de Colby da 5th and Pine junto ao seu depoimento sobre a YouSea">
                                 <p>- Colby Jones, <br> 5th and Pine</p>
                             </div>
                         </div>

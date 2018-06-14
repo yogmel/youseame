@@ -173,6 +173,8 @@ if (typeof tns === "function") {
 
 }
 
-(function() {
-  new WOW().init();
-})();
+if (typeof WOW === "function") { 
+  (function() {
+    new WOW().init();
+  })();
+}
