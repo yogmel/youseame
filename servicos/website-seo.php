@@ -18,6 +18,7 @@
     ?>
 
     <header class="pagina-header" style="background-image: url(../img/servicos/webdesign/banner-webdesign.png)" id="sobreHeader">
+    <img src="../img/servicos/webdesign/banner-webdesign.png" class="sr-only" alt="Banner de fundo: foto escurecida, tirada de cima. Foca na estação de trabalho de uma pessoa, à sua esquerda, uma xícara de café; ao centro, seu notebook e sua mão sobre o teclado; à direita, uma mesa digitalizadora e ele com uma caneta na mão fazendo uso dela">
         <div class="container">
             <div class="pagina-titulo">
                 <h4>Website e SEO</h4>
@@ -33,7 +34,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/webdesign-seo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/webdesign-seo.png" class="img-responsive wow bounceInLeft" alt="Ilustração de uma página do Google Analytics e outras representações de sistemas de otimização de websites">
                 <div>
                     <h2 class="subtitle left-align">O que é Web Design e SEO?</h2>
                     <p>É a <strong>combinação perfeita entre a beleza e a funcionalidade de uma ferramenta online</strong>. O web design une toda a expertise do design – composição e organização da informação, elementos gráficos, mistura das cores, ilustrações e branding – com a funcionalidade tecnológica da programação e de tudo aquilo que você vê e não vê em um website.</p>
@@ -47,19 +48,19 @@
                 <div class="flex space-between">
                     <div class="valor-item wow ZoomIn">
                         <a href="#servicoWebsite">
-                            <i class="fas fa-desktop fa-3x"></i>
+                            <i title="Íconde de um desktop" class="fas fa-desktop fa-3x"></i>
                             <h3>Website e Blog</h3>
                         </a>
                     </div>
                     <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
-                        <a href="#servicoBlog">
-                            <i class="fas fa-newspaper fa-3x"></i>
+                        <a href="#servicoLandingPage">
+                            <i title="Íconde de um jornal ou revista" class="fas fa-newspaper fa-3x"></i>
                             <h3>Landing Pages</h3>
                         </a>
                     </div>
                     <div class="valor-item wow ZoomIn" data-wow-delay="1s">
                         <a href="#servicoOtimizacao">
-                            <i class="fas fa-chart-line fa-3x"></i>
+                            <i title="Íconde de um gráfico de performance" class="fas fa-chart-line fa-3x"></i>
                             <h3>Otimização e Responsividade</h3>
                         </a>
                     </div>
@@ -73,7 +74,7 @@
             <div class="cd-timeline__container">
                 <div class="cd-timeline__block js-cd-block">
                     <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                    <i class="fas fa-search"></i>
+                    <i title="Ícone de lupa" class="fas fa-search"></i>
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
@@ -84,7 +85,7 @@
               </div>
               <div class="cd-timeline__block js-cd-block">
                   <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                      <i class="fas fa-chart-line"></i>
+                  <i title="Ícone de lista" class="fas fa-tasks"></i>
                   </div>
 
                   <div class="cd-timeline__content js-cd-content">
@@ -95,7 +96,7 @@
                 </div>
                 <div class="cd-timeline__block js-cd-block">
                     <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                        <i class="fas fa-chart-line"></i>
+                    <i title="Ícone de gráfico de performance" class="fas fa-chart-line"></i>
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
@@ -111,7 +112,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nosso processo funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>
+                <a href="../contato.php?origin=webdesign-timeline" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>
             </div>
         </section>
 
@@ -119,7 +120,7 @@
         <section class="servicos-descricao" id="servicoWebsite">
             <h2 class="subtitle text-center">Website e Blog</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/website-blog.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/website-blog.png" class="img-responsive wow bounceInLeft" alt="Ilustração de um notebook visto de cima de onde surgem na tela imagens dos principais códigos utilizados para otimizar e criar sites">
                 <div>
                     <p>Ter um <strong>site de qualidade</strong> ou um espaço adequado para compartilhar suas ideias <strong>deixou de ser um diferencial e se tornou essencial para qualquer negócio.</strong></p>
                     <p>O que a maioria das pessoas não sabe é que um site e um blog não precisam apenas estar online, mas também serem funcionais, organizados e otimizados. Dessa forma, seus potenciais clientes terão a melhor experiencia possível ao entrarem em contato com a sua marca.</p>
@@ -151,10 +152,10 @@
             </div>
 
             <div class="container sobre portfolio-cliente flex flex-align-center space-evenly">
-                <img src="../img/servicos/webdesign/5thandpine.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/5thandpine-website.png" class="img-responsive wow flipInX" alt="Imagem do website da 5th and Pine, cliente da YouSea, em vários devices">
                 <div>
                     <h3><span class="light">[Portfolio]</span> 5th and Pine Website</h3>
-                    <span><a href="http://5thandpine.com/" target="_blank"><em>Website</em></a> | <a href="#"><em>Mock up Interativo</em></a></span>
+                    <span><a href="http://5thandpine.com/" target="_blank"><em>Website</em></a> | <a href="https://marvelapp.com/8ehe06e/screen/42193708" target="_blank"><em>Mock up Interativo</em></a></span>
                     <p>5th and Pine é uma empresa americana, que promove treinamentos focados em líderes. Sua fundadora, Colby Jones, nos contratou para criar todo o seu material visual, inclusive seu site. O layout tem como foco informar e converter, enquanto o código foi desenvolvido para ser o mais limpo e otimizado possível.</p>
                 </div>
             </div>
@@ -166,22 +167,22 @@
                         "A YouSea ajudou a desenvolver a identidade de marca da minha nova empresa de consultoria. A Mellina (Webdesigner da YouSea) facilitou todo o processo, me orientou onde precisava e também escutou atentamente tudo o que eu queria. Graças a ela, tenho um novo site e incrível, cartões de visita e um modelo de powerpoint que me ajuda visualmente a colocar o melhor do meu negócio diante de meus clientes."
                     </blockquote>
                     <div class="citacao-fonte">
-                        <img src="../img/servicos/webdesign/colby-5thandpine.png" alt="Foto do Cliente - Depoimento">
-                        <p>- Colby Jones, <br> 5th and Pine <em>(Tradução livre do Inglês-PT)</em></p>
+                        <img src="../img/servicos/webdesign/colby-jones-5thandpine.png" alt="Foto de Colby Jones, da 5th and Pine">
+                        <p>- Colby Jones, <br> 5th and Pine <em>(Tradução livre do Inglês)</em></p>
                     </div>
                 </div>
             </div>
 
             <div class="container _600px cta-solicitar">
                 <h3>Está pronto para mudar de vez a sua presença online?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central">Solicite grátis uma análise do seu site ou blog</a>
+                <a href="../contato.php?origin=webdesign-website-blog" class="btn btn-red btn-central">Solicite grátis uma análise do seu site ou blog</a>
             </div>
         </section>
 
         <hr class="separator-red">
 
         <!-- Serviço - Landing Page -->
-        <section class="servicos-descricao" id="servicoBlog">
+        <section class="servicos-descricao" id="servicoLandingPage">
             <h2 class="subtitle text-center">Landing Page</h2>
             <div class="container _960px text-center">
                 <div>
@@ -192,9 +193,9 @@
 
             <div class="container sobre portfolio-cliente flex flex-align-center space-evenly">
                 <div class="landing-page">
-                    <div> <img src="../img/servicos/webdesign/lp1.jpg" class="wow flipInX" alt=""> </div>
-                    <div> <img src="../img/servicos/webdesign/lp2.jpg" class="wow flipInX" alt=""> </div>
-                    <div> <img src="../img/servicos/webdesign/lp3.jpg" class="wow flipInX" alt=""> </div>
+                    <div> <img src="../img/servicos/webdesign/landing-page-impulse01.jpg" class="wow flipInX" alt="Imagem de uma landing page criada para um cliente da YouSea"> </div>
+                    <div> <img src="../img/servicos/webdesign/landing-page-impulse02.jpg" class="wow flipInX" alt="Imagem de uma landing page criada para um cliente da YouSea"> </div>
+                    <div> <img src="../img/servicos/webdesign/landing-page-impulse03.jpg" class="wow flipInX" alt="Imagem de uma landing page criada para um cliente da YouSea"> </div>
                 </div>
                 <div>
                     <h3><span class="light">[Portfolio]</span> Impulse - Landing Pages</h3>
@@ -206,7 +207,7 @@
             <div class="_600px text-center">
                 <div>
                     <h3>Pronto para renovar sua imagem online?</h3>
-                    <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                    <a href="../contato.php?origin=webdesign-landing-page" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
                 </div>
             </div>
         </section>
@@ -217,7 +218,7 @@
         <section class="servicos-descricao" id="servicoOtimizacao">
             <h2 class="subtitle text-center">Otimização e Responsividade</h2>
             <div class="container sobre flex flex-align-center space-evenly _960px">
-                <img src="../img/servicos/webdesign/seo.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/webdesign/seo-otimizacao.png" class="img-responsive wow bounceInLeft" alt="Ilustração de uma tela de computador que contém uma imagem de um website e uma regua que representa a análise das métricas da YouSea para para tornar o site dos clientes mais eficiente">
                 <div class="servicos-img-itens">
                     <p>Desenhamos seu endereço online em alto padrão de qualidade e programação, como HTML e CSS. Uma página <strong>rápida, eficiente e otimizada</strong> é ideal para seu usuário usufruir de todas as informações do seu site. </p>
 
@@ -236,7 +237,7 @@
                     </span>
                 </div>
                 <div class="otimizacao-teste">
-                    <img src="../img/servicos/pagespeed.png" alt="Logo de GTMetrix">
+                    <img src="../img/servicos/pagespeed.png" alt="Logo do PageSpeed Insights da Google">
 
                     <span>
                         <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insights</a>: Para ser considerado bom, o índice precisa ser acima de 70, tanto para mobile como desktop.
@@ -249,7 +250,7 @@
 
             <div class="_600px container text-center">
                 <h3>Quer saber como nossos especialistas podem melhorar o seu endereço online?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um orçamento sem compromisso</a>
+                <a href="../contato.php?origin=webdesign-otimizacao" class="btn btn-red btn-central cta-servicos">Solicite um orçamento sem compromisso</a>
             </div>
         </section>
 

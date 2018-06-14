@@ -18,6 +18,7 @@
     ?>
 
     <header class="pagina-header" style="background-image: url(../img/servicos/redes-sociais/banner-redes-sociais.png)" id="sobreHeader">
+    <img src="../img/servicos/redes-sociais/banner-redes-sociais.png" class="sr-only" alt="Banner de fundo: foto escurecida. Zoom de uma tela de celular, focando em ícones de redes sociais, como Facebook, Twitter e Instagram">
         <div class="container">
             <div class="pagina-titulo">
                 <h4>Redes Sociais</h4>
@@ -33,7 +34,7 @@
 
         <section class="sobre bg-red">
             <div class="container flex flex-align-center space-evenly">
-                <img src="../img/servicos/redes-sociais/redes-sociais.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/redes-sociais/redes-sociais.png" class="img-responsive wow bounceInLeft" alt="Ilustração de uma tela de computador e uma tela de tablet, de onde surgem diversos balões com ícones de redes sociais conhecidas">
                 <div>
                     <h2 class="subtitle left-align">Por que Redes Sociais são importantes?</h2>
                     <p>Esse é o mar que toda empresa precisa navegar. Através de estratégias de marketing em mídias sociais, você terá diversas oportunidades de interagir de forma relevante com seus potenciais clientes! Ter presença online vem se tornado cada vez mais importante. </p>
@@ -47,13 +48,13 @@
                 <div class="flex space-between">
                     <div class="valor-item wow ZoomIn">
                         <a href="#servicoGerenciamentoRedes">
-                            <i class="fas fa-thumbs-up fa-3x"></i>
+                            <i title="Ícone de um joinha ou like" class="fas fa-thumbs-up fa-3x"></i>
                             <h3>Gerenciamento e conteúdo para Redes Sociais</h3>
                         </a>
                     </div>
                     <div class="valor-item wow ZoomIn" data-wow-delay="0.5s">
                         <a href="#servicoCampanhas">
-                            <i class="fas fa-calendar-alt fa-3x"></i>
+                            <i title="Ícone de um calendário" class="fas fa-calendar-alt fa-3x"></i>
                             <h3>Criação, execução e análise de campanhas</h3>
                         </a>
                     </div>
@@ -66,7 +67,7 @@
             <div class="cd-timeline__container">
                 <div class="cd-timeline__block js-cd-block">
                     <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                    <i class="fas fa-search"></i>
+                    <i title="Ícone de lupa" class="fas fa-search"></i>
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
@@ -77,7 +78,7 @@
               </div>
               <div class="cd-timeline__block js-cd-block">
                   <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                      <i class="fas fa-chart-line"></i>
+                  <i title="Ícone de lista" class="fas fa-tasks"></i>
                   </div>
 
                   <div class="cd-timeline__content js-cd-content">
@@ -88,7 +89,7 @@
                 </div>
                 <div class="cd-timeline__block js-cd-block">
                     <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                    <i class="fas fa-chart-line"></i>
+                        <i title="Ícone de gráfico de performance" class="fas fa-chart-line"></i>
                     </div>
 
                     <div class="cd-timeline__content js-cd-content">
@@ -104,7 +105,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Quer saber qual a rede social mais relevante para o seu negócio?</h2>
                 <p>Entre em contato e faça uma análise grátis!</p>
-                <a href="../contato.php" class="btn btn-white consultores-cta">Quero descobrir agora</a>
+                <a href="../contato.php?origin=redessociais-timeline" class="btn btn-white consultores-cta">Quero descobrir agora</a>
             </div>
         </section>
 
@@ -112,7 +113,7 @@
         <section class="servicos-descricao" id="servicoGerenciamentoRedes">
             <h2 class="subtitle text-center">Gerenciamento e Conteúdo de Redes Sociais</h2>
             <div class="container sobre flex flex-align-center space-evenly">
-                <img src="../img/servicos/redes-sociais/gerenciamento.png" class="img-responsive wow bounceInLeft" alt="Imagem sobre YS">
+                <img src="../img/servicos/redes-sociais/gerenciamento-midias.png" class="img-responsive wow bounceInLeft" alt="Ilustração de várias pessoas diferentes conectadas por linhas e balões que contém simbolos de reações do Facebook">
                 <div>
                     <p><strong>Conexão</strong> tem tudo a ver com o mundo digital em que vivemos. Por conta de seus <strong>diferentes estilos, público alvo e linguagens</strong>, é essencial ter ao seu lado uma equipe que entende como essas redes sociais funcionam. <strong>Criar estratégias voltadas para cada tipo de rede social é primordial</strong>. Com um bom conteúdo e planejamento, seu negócio crescerá em público, fãs e vendas. </p>
                 </div>
@@ -147,7 +148,7 @@
                         “Há dois meses contratei o serviço de Marketing Digital da YouSea [Gerenciamento de redes sociais e criação de campanhas] e minha página no Facebook já teve uma grande melhora. A equipe é atenciosa, tem boas ideias e estão sempre dispostas a ajudar. Profissionais assim são os que fazem a diferença. Super indico!”
                     </blockquote>
                     <div class="citacao-fonte">
-                        <img src="../img/servicos/redes-sociais/willywhite-cliente.png" alt="Foto do Cliente - Depoimento">
+                        <img src="../img/servicos/redes-sociais/willy-white-cliente.png" alt="Foto de William, mágico">
                         <p>- William Soares, <br> Mágico Willy White</p>
                     </div>
                 </div>
@@ -156,7 +157,7 @@
             <div>
                 <h2>Por que você deveria investir em marketing nas redes sociais? </h2>
                 <div  class="container sobre flex flex-align-center space-evenly _960px">
-                    <img src="../img/servicos/redes-sociais/willywhite.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
+                    <img src="../img/servicos/redes-sociais/willy-white-pagina-facebook.png" class="img-responsive wow flipInX" alt="Print da página do Facebook do Mágico Willy White">
                     <div class="servicos-img-itens">
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
@@ -176,7 +177,7 @@
 
             <div class="container _600px text-center">
                 <h3>Pronto para aumentar o alcance do seu negócio?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
+                <a href="../contato.php?origin=redessociais-gerenciamento" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
             </div>
 
         </section>
@@ -196,7 +197,7 @@
 
             <div class="container">
                 <div class="sobre flex flex-align-center space-evenly _960px">
-                    <img src="../img/servicos/redes-sociais/willy-campanha.png" class="img-responsive wow flipInX" alt="Imagem sobre YS">
+                    <img src="../img/servicos/redes-sociais/willy-white-campanha.png" class="img-responsive wow flipInX" alt="Imagens das promoções realizadas pela YouSea na página do Mágico Willy White">
                     <div class="servicos-img-itens">
                         <div>
                             <i class="fas fa-thumbs-up fa-2x"></i>
@@ -216,7 +217,7 @@
 
             <div class="container _600px text-center">
                 <h3>Preparado para turbinar suas redes sociais?</h3>
-                <a href="../contato.php" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                <a href="../contato.php?origin=redessociais-campanha" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
             </div>
         </section>
 
@@ -299,7 +300,6 @@
         include '../assets/parts/footer-servicos.php';
         include 'scripts.php';
     ?>
-    <script data-cfasync="false" type="text/javascript" src="../assets/js/form-handler-servico.js"></script>
 
 </body>
 </html>
