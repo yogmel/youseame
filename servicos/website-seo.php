@@ -112,7 +112,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nosso processo funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="../contato.php?origin=webdesign-timeline" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>
+                <a href="../contato?origin=webdesign-timeline" class="btn btn-white consultores-cta">Saiba mais sobre Web Design agora</a>
             </div>
         </section>
 
@@ -134,7 +134,7 @@
                         <h3>Procurando conteúdo para o seu Blog?</h3>
                         <h4><em>Conheça nosso serviço de conteúdo</em></h4>
                     </div>
-                    <a href="marketing-digital-conteudo.php#servicoCriacaoConteudo" target="_blank" class="btn btn-yellow">Conheça agora</a>
+                    <a href="marketing-digital-conteudo#servicoCriacaoConteudo" target="_blank" class="btn btn-yellow">Conheça agora</a>
                 </div>
             </div>
 
@@ -175,7 +175,7 @@
 
             <div class="container _600px cta-solicitar">
                 <h3>Está pronto para mudar de vez a sua presença online?</h3>
-                <a href="../contato.php?origin=webdesign-website-blog" class="btn btn-red btn-central">Solicite grátis uma análise do seu site ou blog</a>
+                <a href="../contato?origin=webdesign-website-blog" class="btn btn-red btn-central">Solicite grátis uma análise do seu site ou blog</a>
             </div>
         </section>
 
@@ -207,7 +207,7 @@
             <div class="_600px text-center">
                 <div>
                     <h3>Pronto para renovar sua imagem online?</h3>
-                    <a href="../contato.php?origin=webdesign-landing-page" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                    <a href="../contato?origin=webdesign-landing-page" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
                 </div>
             </div>
         </section>
@@ -250,7 +250,7 @@
 
             <div class="_600px container text-center">
                 <h3>Quer saber como nossos especialistas podem melhorar o seu endereço online?</h3>
-                <a href="../contato.php?origin=webdesign-otimizacao" class="btn btn-red btn-central cta-servicos">Solicite um orçamento sem compromisso</a>
+                <a href="../contato?origin=webdesign-otimizacao" class="btn btn-red btn-central cta-servicos">Solicite um orçamento sem compromisso</a>
             </div>
         </section>
 

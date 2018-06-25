@@ -34,18 +34,18 @@
                 <h2>Não se preocupe! Você pode voltar a página inicial ou navegar pelos nossos serviços:</h2>
                 <div class="flex space-between">
                     <div class="valor-item">
-                        <a href="servicos/marketing-digital-conteudo.php?origem=404"><img src="img/servicos/marketing/marketing-sobre.png" class="img-responsive" alt="ilustração de um computador onde na tela se pode observar gráficos em barra"></a>
-                        <a href="servicos/marketing-digital-conteudo.php?origem=404"><h3>Marketing Digital e de Conteúdo</h3>
+                        <a href="servicos/marketing-digital-conteudo?origem=404"><img src="img/servicos/marketing/marketing-sobre.png" class="img-responsive" alt="ilustração de um computador onde na tela se pode observar gráficos em barra"></a>
+                        <a href="servicos/marketing-digital-conteudo?origem=404"><h3>Marketing Digital e de Conteúdo</h3>
                         <p>Cative seus clientes através de conteúdo relevante, diferenciando sua marca no mercado</p></a>
                     </div>
                     <div class="valor-item">
-                        <a href="servicos/website-seo.php?origem=404"><img src="img/servicos/webdesign/webdesign-seo.png?origem=404" class="img-responsive" alt="Ilustração de uma página do Google Analytics e outras representações de sistemas de otimização de websites"></a>
-                        <a href="servicos/website-seo.php?origem=404"><h3>Web Design e SEO</h3>
+                        <a href="servicos/website-seo?origem=404"><img src="img/servicos/webdesign/webdesign-seo.png?origem=404" class="img-responsive" alt="Ilustração de uma página do Google Analytics e outras representações de sistemas de otimização de websites"></a>
+                        <a href="servicos/website-seo?origem=404"><h3>Web Design e SEO</h3>
                         <p>Tenha um site moderno, otimizado e eficiente para mostrar ao mundo o melhor do seu negócio. </p></a>
                     </div>
                     <div class="valor-item">
-                        <a href="servicos/redes-sociais.php?origem=404"><img src="img/servicos/redes-sociais/redes-sociais.png" class="img-responsive" alt="Ilustração de uma tela de computador e uma tela de tablet, de onde surgem diversos balões com ícones de redes sociais conhecidas"></a>
-                        <a href="servicos/redes-sociais.php?origem=404"><h3>Redes Sociais</h3>
+                        <a href="servicos/redes-sociais?origem=404"><img src="img/servicos/redes-sociais/redes-sociais.png" class="img-responsive" alt="Ilustração de uma tela de computador e uma tela de tablet, de onde surgem diversos balões com ícones de redes sociais conhecidas"></a>
+                        <a href="servicos/redes-sociais?origem=404"><h3>Redes Sociais</h3>
                         <p>Ganhe curtidas e seja visto através dos canais mais utilizados pelo seu público. </p></a>
                     </div>
                 </div>

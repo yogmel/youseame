@@ -114,7 +114,7 @@
                                 <p>Estratégias de Copywriting, Teste A/B e Ranqueamento</p>
                             </div>
                         </div>
-                        <a href="servicos/marketing-digital-conteudo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/marketing-digital-conteudo" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -138,7 +138,7 @@
                                 <p>Otimização e Responsividade</p>
                             </div>
                         </div>
-                        <a href="servicos/website-seo.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/website-seo" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -158,7 +158,7 @@
                                 <p>Análise e criação de campanhas</p>
                             </div>
                         </div>
-                        <a href="servicos/redes-sociais.php" class="servicos-cta btn btn-red">Saiba Mais</a>
+                        <a href="servicos/redes-sociais" class="servicos-cta btn btn-red">Saiba Mais</a>
                     </div>
                 </div>
 
@@ -198,7 +198,7 @@
                 </div>
                 <div class="solucoes-chamada container">
                     <h4>Alcance resultados incríveis e descubra a melhor estratégia para seu negócio!</h4>
-                    <a href="contato.php?origin=home-solucoes" class="solucoes-cta btn btn-red">Entre em Contato!</a>
+                    <a href="contato?origin=home-solucoes" class="solucoes-cta btn btn-red">Entre em Contato!</a>
                 </div>
             </div>
         </section>
@@ -234,7 +234,7 @@
         <section class="home-cta bg-light">
             <h2 class="subtitle">Inspirado a viver no mundo digital?</h2>
             <p>Que tal navegarmos juntos para alcançar seus objetivos?</p>
-            <a href="contato.php?origin=home-inspirado" class="btn btn-red">Solicite um Orçamento Grátis</a>
+            <a href="contato?origin=home-inspirado" class="btn btn-red">Solicite um Orçamento Grátis</a>
         </section>
 
     </main>

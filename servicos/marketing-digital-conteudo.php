@@ -114,7 +114,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Curioso para saber como nossa solução funciona para seu negócio?</h2>
                 <p>Entre em contato conosco!</p>
-                <a href="../contato.php?origin=marketing-timeline" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>
+                <a href="../contato?origin=marketing-timeline" class="btn btn-white consultores-cta">Saiba mais sobre conteúdo agora</a>
             </div>
         </section>
 
@@ -144,7 +144,7 @@
                 <div class="row-4columns">
                     <div>
                         <i class="fas fa-rss-square fa-2x"></i>
-                        <p>Artigos de Blogs e <a href="redes-sociais.php#servicoCampanhas" target="_blank">Campanhas em Redes Sociais</a></p>
+                        <p>Artigos de Blogs e <a href="redes-sociais#servicoCampanhas" target="_blank">Campanhas em Redes Sociais</a></p>
                     </div>
                     <div>
                         <i class="fas fa-book fa-2x"></i>
@@ -160,7 +160,7 @@
                     </div>
                 </div>
                 <div class="container _600px">
-                    <a href="../contato.php?origin=marketing-conteudo" class="btn btn-red btn-central">Quero um Orçamento sem compromisso</a>
+                    <a href="../contato?origin=marketing-conteudo" class="btn btn-red btn-central">Quero um Orçamento sem compromisso</a>
                 </div>
             </div>
         </section>
@@ -187,7 +187,7 @@
             </div>
 
             <div class="container _600px text-center">
-                <a href="../contato.php?origin=marketing-seoadwords" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
+                <a href="../contato?origin=marketing-seoadwords" class="btn btn-red btn-central cta-servicos">Saiba como destacar o seu negócio!</a>
             </div>
         </section>
 
@@ -218,7 +218,7 @@
             </div>
 
             <div class="_600px container">
-                <a href="../contato.php?origin=marketing-estrategia" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
+                <a href="../contato?origin=marketing-estrategia" class="btn btn-red btn-central cta-servicos">Solicite um orçamento grátis e saia da deriva!</a>
             </div>
         </section>
 
@@ -275,7 +275,7 @@
             </div>
 
             <div class="_600px container">
-                <a href="../contato.php?origin=marketing-design" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
+                <a href="../contato?origin=marketing-design" class="btn btn-red btn-central cta-servicos">Entre em contato para orçar as suas peças</a>
             </div>
         </section>
 
