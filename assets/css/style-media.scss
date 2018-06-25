@@ -345,7 +345,7 @@
     .sobre-historia .flex {
         -webkit-box-pack: space-evenly;
         -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+        justify-content: space-evenly;
     }
     .historia {
         width: 70%;
@@ -354,6 +354,11 @@
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
+    }
+    .time-descricao {
+        div {
+           max-width: 40%;
+        }
     }
     /* pag - servicos */
     .servicos-acessar a {
