@@ -1,7 +1,7 @@
 <nav class="topbar" id="topbar">
         <div class="container">
             <div class="nav-brand">
-            <a href="index.php"><img src="img/logo.png" alt="YouSea logo" class="logo-brand"></a>
+            <a href="/"><img src="img/logo.png" alt="YouSea logo" class="logo-brand"></a>
             <a href="#" class="nav-toggle"><span></span><span></span><span></span></a>
         </div>
 
@@ -9,18 +9,18 @@
             <div>
                 <ul class="navbar">
                     <li class="nav-servicos">
-                        <a href="servicos.php" id="btnServicos">Serviços <i class="fas fa-sort-down"></i></a>
+                        <a href="servicos" id="btnServicos">Serviços <i class="fas fa-sort-down"></i></a>
 
                         <ul id="listaNavServicos">
-                            <li><a href="servicos/marketing-digital-conteudo.php">Marketing Digital e Conteúdo</a></li>
-                            <li><a href="servicos/website-seo.php">Webdesign e SEO</a></li>
-                            <li><a href="servicos/redes-sociais.php">Redes Sociais</a></li>
+                            <li><a href="servicos/marketing-digital-conteudo">Marketing Digital e Conteúdo</a></li>
+                            <li><a href="servicos/website-seo">Webdesign e SEO</a></li>
+                            <li><a href="servicos/redes-sociais">Redes Sociais</a></li>
                         </ul>
                     </li>
-                    <li><a href="sobre.php">Sobre</a></li>
+                    <li><a href="sobre">Sobre</a></li>
                     <!-- <li><a href="blog">Blog</a></li> -->
-                    <li><a href="contato.php">Contato</a></li>
-                    <li><a href="solicite-orcamento.php" id="menu-cta" class="navbar-cta btn btn-red">Solicite um Orçamento Grátis</a></li>
+                    <li><a href="contato">Contato</a></li>
+                    <li><a href="solicite-orcamento" id="menu-cta" class="navbar-cta btn btn-red">Solicite um Orçamento Grátis</a></li>
                 </ul>
             </div>
         </nav>

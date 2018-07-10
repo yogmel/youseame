@@ -105,7 +105,7 @@
             <div class="container">
                 <h2 class="subtitle _600px">Quer saber qual a rede social mais relevante para o seu negócio?</h2>
                 <p>Entre em contato e faça uma análise grátis!</p>
-                <a href="../contato.php?origin=redessociais-timeline" class="btn btn-white consultores-cta">Quero descobrir agora</a>
+                <a href="../contato?origin=redessociais-timeline" class="btn btn-white consultores-cta">Quero descobrir agora</a>
             </div>
         </section>
 
@@ -177,7 +177,7 @@
 
             <div class="container _600px text-center">
                 <h3>Pronto para aumentar o alcance do seu negócio?</h3>
-                <a href="../contato.php?origin=redessociais-gerenciamento" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
+                <a href="../contato?origin=redessociais-gerenciamento" class="btn btn-red btn-central cta-servicos">Solicite um Orçamento Grátis</a>
             </div>
 
         </section>
@@ -217,7 +217,7 @@
 
             <div class="container _600px text-center">
                 <h3>Preparado para turbinar suas redes sociais?</h3>
-                <a href="../contato.php?origin=redessociais-campanha" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
+                <a href="../contato?origin=redessociais-campanha" class="btn btn-red btn-central cta-servicos">Solicitar um Orçamento Grátis</a>
             </div>
         </section>
 

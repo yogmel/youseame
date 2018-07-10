@@ -106,9 +106,13 @@
                     </div>
                 </div>
 
+                <h3>Nós somos certificados pelas empresas mais importantes do mercado</h3>
                 <div class="time-certificacoes">
+                    <img src="img/sobre/badge-inbound_marketing.png" class="wow ZoomIn" alt="Certificacao 1">
+                    <img src="img/sobre/badges-marketing_de_conteudo.png" class="wow ZoomIn" alt="Certificacao 1">
+                    <img src="img/sobre/badges-producao_de_conteudo.png" class="wow ZoomIn" alt="Certificacao 1">
                     <img src="img/sobre/certification.png" class="wow ZoomIn" alt="Certificacao 1">
-                    <img src="img/sobre/certification.png" class="wow ZoomIn" alt="Certificacao 1">
+                    <img src="img/sobre/google-search-certification.png" class="wow ZoomIn" alt="Certificacao 1">
                 </div>
 
 

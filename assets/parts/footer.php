@@ -3,19 +3,19 @@
             <div class="flex container">
                 <div class="footer-mapa">
                    <ul>
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li class="nav-servicos">
-                                <a href="servicos.php" id="btnServicos">Serviços</a>
+                                <a href="servicos" id="btnServicos">Serviços</a>
 
                                 <ul>
-                                    <li><a href="servicos/marketing-digital-conteudo.php">Marketing Digital e Conteúdo</a></li>
-                                    <li><a href="servicos/website-seo.php">Webdesign e SEO</a></li>
-                                    <li><a href="servicos/redes-sociais.php">Redes Sociais</a></li>
+                                    <li><a href="servicos/marketing-digital-conteudo">Marketing Digital e Conteúdo</a></li>
+                                    <li><a href="servicos/website-seo">Webdesign e SEO</a></li>
+                                    <li><a href="servicos/redes-sociais">Redes Sociais</a></li>
                                 </ul>
                             </li>
-                        <li><a href="sobre.php">Sobre</a></li>
-                        <li><a href="contato.php">Contato</a></li>
-                        <li><a href="solicite-orcamento.php" class="menu-cta">Solicite um Orçamento Grátis</a></li>
+                        <li><a href="sobre">Sobre</a></li>
+                        <li><a href="contato">Contato</a></li>
+                        <li><a href="solicite-orcamento" class="menu-cta">Solicite um Orçamento Grátis</a></li>
                     </ul>
                 </div>
                 <div class="footer-redes-sociais">

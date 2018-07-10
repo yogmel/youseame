@@ -93,11 +93,11 @@
                 <div class="contato-redes">
                     <img src="img/logo.png" class="img-responsive logo" alt="Logo YouSea">
                     <div class="flex flex-align-center">
-                        <img src="img/contato/marketing.png" class="img-responsive" alt="ilustração de um gráfico colorido com uma curva de crescimento exponencial">
+                        <img src="img/contato/marketing-digital-conteudo.png" class="img-responsive" alt="ilustração de um gráfico colorido com uma curva de crescimento exponencial">
                         <h4>Marketing Digital e de Conteúdo</h4>
                     </div>
                     <div class="flex flex-align-center">
-                        <img src="img/contato/webdesign.png" class="img-responsive" alt="ilustração de um site visto por uma tela de computador e de um celular">
+                        <img src="img/contato/webdesign-seo.png" class="img-responsive" alt="ilustração de um site visto por uma tela de computador e de um celular">
                         <h4>Web Design e SEO</h4>
                     </div>
                     <div class="flex flex-align-center">

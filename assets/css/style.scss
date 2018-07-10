@@ -359,7 +359,7 @@ section {
     font-size: 1rem;
     display: block;
     @extend %transition-hover;
-    &a:hover {
+    &:hover {
         color: $red-light;
         @extend %transition-hover;
     }
@@ -729,7 +729,6 @@ div.img-servicos {
 .time-descricao {
     div {
        width: 100%;
-       max-width: 40%;
     }
     img {border-radius: 10px;}
     h3 {margin-top: 20px;}
@@ -754,6 +753,11 @@ iframe.depoimento {
     width: 100%;
 }
 
+.sobre-time h3 {
+    text-align: center;
+    margin-top: 40px;
+}
+
 .time-certificacoes {
     @extend %flex;
     @extend %flex-align-center;
@@ -765,7 +769,7 @@ iframe.depoimento {
     img {
         margin-top: 20px;
         width: 100%;
-        max-width: 200px;
+        max-width: 170px;
     }
 }
 
